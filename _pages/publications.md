@@ -39,7 +39,7 @@ author_profile: true
 > Chen Yang, <b>Xiaoqing Guo</b>, Meilu Zhu, Bulat Ibragimov, Yixuan Yuan. <br>
 > <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>JBHI</b></i>), 2021 <br>
 	
-> <b><a href="https://doi.org/10.1016/j.media.2021.102052" target="_blank">Consolidated domain adaptive detection and localization framework for cross-device colonoscopic images</a></b> [<a href="https://github.com/xinyuliu-jeffrey/ConsolidatedPolypDA" target="_blank">code</a>] [<a href=https://www.bilibili.com/video/BV1b54y1H7tF" target="_blank">video</a>] <br>
+> <b><a href="https://doi.org/10.1016/j.media.2021.102052" target="_blank">Consolidated domain adaptive detection and localization framework for cross-device colonoscopic images</a></b> [<a href="https://github.com/xinyuliu-jeffrey/ConsolidatedPolypDA" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1b54y1H7tF" target="_blank">video</a>] <br>
 > Xinyu Liu, <b>Xiaoqing Guo</b>, Yajie Liu, Yixuan Yuan. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
 	
