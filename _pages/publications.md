@@ -23,30 +23,30 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 
-> <b><a href="https://doi.org/10.1016/j.media.2021.102196" target="_blank">Dynamic-weighting Hierarchical Segmentation Network for Medical Images</a></b> [<a href="https://github.com/CityU-AIM-Group/DW-HieraSeg" target="_blank">code</a>] <br>
-> <b>Xiaoqing Guo</b>, Chen Yang, Yixuan Yuan.<br>
-> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
-
 > <b><a href="https://ieeexplore.ieee.org/document/9305717" target="_blank">Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation</a></b> [<a href="https://github.com/Guo-Xiaoqing/ThresholdNet" target="_blank">code</a>] [<a href="https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw" target="_blank">MICS中文推送</a>] <br>
 > <b>Xiaoqing Guo</b>, Chen Yang, Yajie Liu, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
+
+> <b><a href="https://doi.org/10.1016/j.media.2021.102196" target="_blank">Dynamic-weighting Hierarchical Segmentation Network for Medical Images</a></b> [<a href="https://github.com/CityU-AIM-Group/DW-HieraSeg" target="_blank">code</a>] <br>
+> <b>Xiaoqing Guo</b>, Chen Yang, Yixuan Yuan.<br>
+> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
 
 > <b><a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a></b> [<a href="https://github.com/CityU-AIM-Group/Prototypical-Graph-DA" target="_blank">code</a>] <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 	
-> <b><a href="https://ieeexplore.ieee.org/document/9423517" target="_blank">Mutual-Prototype Adaptation for Cross-Domain Polyp Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/MPA-DA" target="_blank">code</a>] <br>
-> Chen Yang, <b>Xiaoqing Guo</b>, Meilu Zhu, Bulat Ibragimov, Yixuan Yuan. <br>
-> <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>JBHI</b></i>), 2021 <br>
-	
+> <b><a href="https://ieeexplore.ieee.org/document/9339901" target="_blank">Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction</a></b> [<a href="https://github.com/franciszchen/SRD-SAI" target="_blank">code</a>] <br>
+> Zhen Chen, <b>Xiaoqing Guo</b>, Peter Y. M. Woo, Yixuan Yuan. <br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
+		
 > <b><a href="https://doi.org/10.1016/j.media.2021.102052" target="_blank">Consolidated domain adaptive detection and localization framework for cross-device colonoscopic images</a></b> [<a href="https://github.com/xinyuliu-jeffrey/ConsolidatedPolypDA" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1b54y1H7tF" target="_blank">video</a>] <br>
 > Xinyu Liu, <b>Xiaoqing Guo</b>, Yajie Liu, Yixuan Yuan. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
 	
-> <b><a href="https://ieeexplore.ieee.org/document/9339901" target="_blank">Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction</a></b> [<a href="https://github.com/franciszchen/SRD-SAI" target="_blank">code</a>] <br>
-> Zhen Chen, <b>Xiaoqing Guo</b>, Peter Y. M. Woo, Yixuan Yuan. <br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
-	
+> <b><a href="https://ieeexplore.ieee.org/document/9423517" target="_blank">Mutual-Prototype Adaptation for Cross-Domain Polyp Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/MPA-DA" target="_blank">code</a>] <br>
+> Chen Yang, <b>Xiaoqing Guo</b>, Meilu Zhu, Bulat Ibragimov, Yixuan Yuan. <br>
+> <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>JBHI</b></i>), 2021 <br>
+
 > <b><a href="https://pubmed.ncbi.nlm.nih.gov/35007256/" target="_blank">A Morphometric Analysis of Commonly Used Craniometric Approaches for Freehand Ventriculoperitoneal Shunting</a></b> <br>
 > Peter YM Woo, Desiree KK Wong, Yixuan Yuan, <b>Xiaoqing Guo</b>, Michael KW See, Matthew Tam, Alain KS Wong, Kwong-Yau Chan. <br>
 > <em>Operative Neurosurgery</em>, 2021 <br>
@@ -79,13 +79,13 @@ author_profile: true
 > <em>IEEE Transactions on Information Forensics and Security</em> (<i><b>IEEE TIFS</b></i>), 2018 <br>
 
 ### Conference Papers
-> <b><a href="https://ieeexplore.ieee.org/document/9098417" target="_blank">Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation</a></b> [<a href="https://github.com/Guo-Xiaoqing/Skin-Seg" target="_blank">code</a>] <br>
-> <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan. <br>
-> <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2020</b></i>), Iowa City, Iowa, USA. <br>
-
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33" target="_blank">Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classfication</a></b> [<a href="https://github.com/Guo-Xiaoqing/Triple-ANet" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2019</b></i>), Shenzhen, China. <br>
+
+> <b><a href="https://ieeexplore.ieee.org/document/9098417" target="_blank">Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation</a></b> [<a href="https://github.com/Guo-Xiaoqing/Skin-Seg" target="_blank">code</a>] <br>
+> <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan. <br>
+> <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2020</b></i>), Iowa City, Iowa, USA. <br>
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-46643-5_28" target="_blank">Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction</a></b> <br>
 > <b>Xiaoqing Guo</b>, Chen Yang, Pak Lun Lam, Peter Y.M. Woo, Yixuan Yuan. <br>
