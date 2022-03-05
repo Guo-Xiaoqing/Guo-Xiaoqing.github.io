@@ -9,4 +9,4 @@ author_profile: true
 
 {% include base_path %}
 
-[View Curriculum Vitae](http://guo-xiaoqing.github.io/images/XiaoqingGUO.pdf)
+<a href="http://guo-xiaoqing.github.io/images/XiaoqingGUO.pdf" target="_blank">View Curriculum Vitae</a>
