@@ -7,18 +7,19 @@ author_profile: true
 
 ## 2022
 ### Journal Papers
-> <b>[Non-equivalent images and pixels: confidence-aware resampling with meta-learning mixup for polyp segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841522000469)</b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000469" target="_blank">Non-equivalent images and pixels: confidence-aware resampling with meta-learning mixup for polyp segmentation</a></b> <br>
 > <b>Xiaoqing Guo</b>, Zhen Chen, Jun Liu, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
 ### Conference Papers	
 > <b>[SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation]()</b> [[code comning soon]()] <br>
+<!-- > <b><a href="" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a></b> [<a href="" target="_blank">code comning soon</a>] <br> -->
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan. <br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2022</b></i>), 2022 <br>
 
 ## 2021
 ### Journal Papers
-> <b>[Semantic-oriented Labeled-to-unlabeled Distribution Translation for Image Segmentation](https://ieeexplore.ieee.org/document/9541376)</b> [[code](https://github.com/CityU-AIM-Group/L2uDT)] <br>
+> <b><a href="https://ieeexplore.ieee.org/document/9541376" target="_blank">Semantic-oriented Labeled-to-unlabeled Distribution Translation for Image Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/L2uDT" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 
@@ -26,74 +27,74 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Chen Yang, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
 
-> <b>[Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation](https://ieeexplore.ieee.org/document/9305717)</b> [[code](https://github.com/Guo-Xiaoqing/ThresholdNet)] [[MICS中文推送](https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw)] <br>
+> <b><a href="https://ieeexplore.ieee.org/document/9305717" target="_blank">Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation</a></b> [<a href="https://github.com/Guo-Xiaoqing/ThresholdNet" target="_blank">code</a>] [<a href="https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw" target="_blank">MICS中文推送</a>] <br>
 > <b>Xiaoqing Guo</b>, Chen Yang, Yajie Liu, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 
-> <b>[Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge](https://ieeexplore.ieee.org/document/9583929)</b> [[code](https://github.com/CityU-AIM-Group/Prototypical-Graph-DA)] <br>
+> <b><a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a></b> [<a href="https://github.com/CityU-AIM-Group/Prototypical-Graph-DA" target="_blank">code</a>] <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 	
-> <b>[Mutual-Prototype Adaptation for Cross-Domain Polyp Segmentation](https://ieeexplore.ieee.org/document/9423517)</b> [[code](https://github.com/CityU-AIM-Group/MPA-DA)] <br>
+> <b><a href="https://ieeexplore.ieee.org/document/9423517" target="_blank">Mutual-Prototype Adaptation for Cross-Domain Polyp Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/MPA-DA" target="_blank">code</a>] <br>
 > Chen Yang, <b>Xiaoqing Guo</b>, Meilu Zhu, Bulat Ibragimov, Yixuan Yuan. <br>
 > <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>JBHI</b></i>), 2021 <br>
 	
-> <b>[Consolidated domain adaptive detection and localization framework for cross-device colonoscopic images](https://doi.org/10.1016/j.media.2021.102052)</b> [[code](https://github.com/xinyuliu-jeffrey/ConsolidatedPolypDA)] [[video](https://www.bilibili.com/video/BV1b54y1H7tF)] <br>
+> <b><a href="https://doi.org/10.1016/j.media.2021.102052" target="_blank">Consolidated domain adaptive detection and localization framework for cross-device colonoscopic images</a></b> [<a href="https://github.com/xinyuliu-jeffrey/ConsolidatedPolypDA" target="_blank">code</a>] [<a href=https://www.bilibili.com/video/BV1b54y1H7tF" target="_blank">video</a>] <br>
 > Xinyu Liu, <b>Xiaoqing Guo</b>, Yajie Liu, Yixuan Yuan. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
 	
-> <b>[Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction](https://ieeexplore.ieee.org/document/9339901)</b> [[code](https://github.com/franciszchen/SRD-SAI)] <br>
+> <b><a href="https://ieeexplore.ieee.org/document/9339901" target="_blank">Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction</a></b> [<a href="https://github.com/franciszchen/SRD-SAI" target="_blank">code</a>] <br>
 > Zhen Chen, <b>Xiaoqing Guo</b>, Peter Y. M. Woo, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 	
-> <b>[A Morphometric Analysis of Commonly Used Craniometric Approaches for Freehand Ventriculoperitoneal Shunting](https://pubmed.ncbi.nlm.nih.gov/35007256/)</b> <br>
+> <b><a href="https://pubmed.ncbi.nlm.nih.gov/35007256/" target="_blank">A Morphometric Analysis of Commonly Used Craniometric Approaches for Freehand Ventriculoperitoneal Shunting</a></b> <br>
 > Peter YM Woo, Desiree KK Wong, Yixuan Yuan, <b>Xiaoqing Guo</b>, Michael KW See, Matthew Tam, Alain KS Wong, Kwong-Yau Chan. <br>
 > <em>Operative Neurosurgery</em>, 2021 <br>
 
 ### Conference Papers	
-> <b>[MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.html)</b> [[code](https://github.com/cyang-cityu/MetaCorrection)] [[video](https://www.bilibili.com/video/BV1SX4y1A7Ee)] [[MICS中文推送](https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw)] <br>
+> <b><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.html" target="_blank">MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation</a></b> [<a href="https://github.com/cyang-cityu/MetaCorrection" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1SX4y1A7Ee" target="_blank">video</a>] [<a href="https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw" target="_blank">MICS中文推送</a>] <br>
 > <b>Xiaoqing Guo</b>\*, Chen Yang\*, Baopu Li, Yixuan Yuan. (* indicates equal contribution)<br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2021</b></i>), 2021 <br>
 	
-> <b>[COINet: Adaptive Segmentation with Co-Interactive Network for Autonomous Driving](https://ieeexplore.ieee.org/document/9636111)</b> <br>
+> <b><a href="https://ieeexplore.ieee.org/document/9636111" target="_blank">COINet: Adaptive Segmentation with Co-Interactive Network for Autonomous Driving</a></b> <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Baopu Li, Yixuan Yuan. <br>
 > <em>IEEE International Conference on Intelligent Robots and Systems</em> (<i><b>IROS 2021</b></i>), Prague, Czech Republic. <br>
 	
-> <b>[Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26)</b> [[code](https://github.com/CityU-AIM-Group/SePIG)] [[video](https://www.bilibili.com/video/BV1Kw411o7DY)] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26" target="_blank">Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SePIG" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1Kw411o7DY" target="_blank">video</a>] <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2021</b></i>), Strasbourg, France. <br>
 	
-> <b>[Comprehensive Polyp Detection and Segmentation with Heterogeneous Endoscopic Data](http://ceur-ws.org/Vol-2886/paper7.pdf)</b> <br>
+> <b><a href="http://ceur-ws.org/Vol-2886/paper7.pdf" target="_blank">Comprehensive Polyp Detection and Segmentation with Heterogeneous Endoscopic Data</a></b> <br>
 > Wuyang Li, Chen Yang, Jie Liu, Xinyu Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>The 3rd International Endoscopy Computer Vision Challenge and Workshop (EndoCV) of ISBI 2021</em>, Nice, France. (Ranked \textbf{1st} place in polyp detection) <br>
 
 ## Before 2021
 ### Journal Papers
-> <b>[Semi-supervised WCE Image Classification with Adaptive Aggregated Attention](https://doi.org/10.1016/j.media.2020.101733)</b> [[code](https://github.com/Guo-Xiaoqing/SSL_WCE)] <br>
+> <b><a href="https://doi.org/10.1016/j.media.2020.101733" target="_blank">Semi-supervised WCE Image Classification with Adaptive Aggregated Attention</a></b> [<a href="https://github.com/Guo-Xiaoqing/SSL_WCE" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2020 <br>
 
-> <b>[RNN-stega: Linguistic steganography based on recurrent neural networks](https://ieeexplore.ieee.org/abstract/document/8470163)</b> [[code](https://github.com/YangzlTHU/RNN-Stega)] <br>
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/8470163" target="_blank">RNN-stega: Linguistic steganography based on recurrent neural networks</a></b> [<a href="https://github.com/YangzlTHU/RNN-Stega" target="_blank">code</a>] <br>
 > Zhongliang Yang, <b>Xiaoqing Guo</b>, Ziming Chen, Yongfeng Huang, Yujin Zhang. <br>
 > <em>IEEE Transactions on Information Forensics and Security</em> (<i><b>IEEE TIFS</b></i>), 2018 <br>
 
 ### Conference Papers
-> <b>[Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation](https://ieeexplore.ieee.org/document/9098417)</b> [[code](https://github.com/Guo-Xiaoqing/Skin-Seg)] <br>
+> <b><a href="https://ieeexplore.ieee.org/document/9098417" target="_blank">Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation</a></b> [<a href="https://github.com/Guo-Xiaoqing/Skin-Seg" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan. <br>
 > <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2020</b></i>), Iowa City, Iowa, USA. <br>
 
-> <b>[Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classfication](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33)</b> [[code](https://github.com/Guo-Xiaoqing/Triple-ANet)] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33" target="_blank">Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classfication</a></b> [<a href="https://github.com/Guo-Xiaoqing/Triple-ANet" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2019</b></i>), Shenzhen, China. <br>
 
-> <b>[Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction](https://link.springer.com/chapter/10.1007/978-3-030-46643-5_28)</b> [[code](https://github.com/Guo-Xiaoqing/BraTS_OS)] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-46643-5_28" target="_blank">Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction</a></b> <br>
 > <b>Xiaoqing Guo</b>, Chen Yang, Pak Lun Lam, Peter Y.M. Woo, Yixuan Yuan. <br>
 > <em>Brain Lesion (BrainLes) workshop of MICCAI 2019</em>, Shenzhen, China. <br>
 
-> <b>[Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_18)</b> [[code](https://github.com/franciszchen/SWD-Net)] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_18" target="_blank">Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution</a></b> [<a href="https://github.com/franciszchen/SWD-Net" target="_blank">code</a>] <br>
 > Zhen Chen, <b>Xiaoqing Guo</b>, Chen Yang, Bulat Ibragimov, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2020</b></i>), Lima, Peru. <br>
 
-> <b>[Prostate Segmentation with Encoder-Decoder Densely Connected Convolutional Network (ED-DenseNet)](https://ieeexplore.ieee.org/abstract/document/8759498)</b> <br>
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/8759498" target="_blank">Prostate Segmentation with Encoder-Decoder Densely Connected Convolutional Network (ED-DenseNet)</a></b> <br>
 > Yixuan Yuan, Wenjian Qin, <b>Xiaoqing Guo</b>, Mark Buyyounouski, Steve Hancock, Bin Han, Lei Xing. <br>
 > <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2019</b></i>), Venice, Italy. <br>
