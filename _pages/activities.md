@@ -16,8 +16,8 @@ author_profile: true
   * MICCAI 2019 
 
 ## Conference Presentations
-  * CVPR 2021, Virtual
-  * MICCAI 2019, Shenzhen, China
+  * CVPR 2021, Virtual <a href="CVPR2021ppt.pdf" target="_blank">[PPT]</a> <a href="https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw" target="_blank">[MICS中文推送]</a>
+  * MICCAI 2019, Shenzhen, China <a href="MICCAI2019Poster.pdf" target="_blank">[Poster]</a>
   * ISBI 2019, Venice, Italy
 
 ## Teaching
