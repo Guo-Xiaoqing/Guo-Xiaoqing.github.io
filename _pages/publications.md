@@ -22,7 +22,7 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 
-> <b>[Dynamic-weighting Hierarchical Segmentation Network for Medical Images](https://doi.org/10.1016/j.media.2021.102196)</b> [[code](https://github.com/CityU-AIM-Group/DW-HieraSeg)] <br>
+> <b><a href="https://doi.org/10.1016/j.media.2021.102196" target="_blank">Dynamic-weighting Hierarchical Segmentation Network for Medical Images</a></b> [<a href="https://github.com/CityU-AIM-Group/DW-HieraSeg" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Chen Yang, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
 
