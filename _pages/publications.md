@@ -66,7 +66,7 @@ author_profile: true
 	
 > <b><a href="http://ceur-ws.org/Vol-2886/paper7.pdf" target="_blank">Comprehensive Polyp Detection and Segmentation with Heterogeneous Endoscopic Data</a></b> <br>
 > Wuyang Li, Chen Yang, Jie Liu, Xinyu Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
-> <em>The 3rd International Endoscopy Computer Vision Challenge and Workshop (EndoCV) of ISBI 2021</em>, Nice, France. (Ranked \textbf{1st} place in polyp detection) <br>
+> <em>The 3rd International Endoscopy Computer Vision Challenge and Workshop (EndoCV) of ISBI 2021</em>, Nice, France. (Ranked <b>1st</b> place in polyp detection) <br>
 
 ## Before 2021
 ### Journal Papers
