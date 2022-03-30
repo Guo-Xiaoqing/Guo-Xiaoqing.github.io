@@ -14,7 +14,7 @@ author_profile: true
 ### Conference Papers	
 > <b><a href="https://arxiv.org/abs/2203.15202" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan. <br>
-> <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2022</b></i>), 2022 <br>
+> <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2022</b></i>) <br>
 
 ## 2021
 ### Journal Papers
@@ -53,7 +53,7 @@ author_profile: true
 ### Conference Papers	
 > <b><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.html" target="_blank">MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation</a></b> [<a href="https://github.com/cyang-cityu/MetaCorrection" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1SX4y1A7Ee" target="_blank">video</a>] [<a href="https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw" target="_blank">MICS中文推送</a>] <br>
 > <b>Xiaoqing Guo</b>\*, Chen Yang\*, Baopu Li, Yixuan Yuan. (* indicates equal contribution)<br>
-> <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2021</b></i>), 2021 <br>
+> <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2021</b></i>) <br>
 	
 > <b><a href="https://ieeexplore.ieee.org/document/9636111" target="_blank">COINet: Adaptive Segmentation with Co-Interactive Network for Autonomous Driving</a></b> <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Baopu Li, Yixuan Yuan. <br>
