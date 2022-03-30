@@ -12,8 +12,7 @@ author_profile: true
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
 ### Conference Papers	
-> <b>[SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation]()</b> [[code comning soon]()] <br>
-<!-- > <b><a href="https://arxiv.org/abs/2203.15202" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT" target="_blank">code</a>] <br> -->
+> <b><a href="https://arxiv.org/abs/2203.15202" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan. <br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2022</b></i>), 2022 <br>
 
