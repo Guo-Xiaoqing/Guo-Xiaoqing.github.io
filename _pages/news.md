@@ -4,6 +4,7 @@ title: "News"
 author_profile: true
 ---
 
+* [Apr 2022] One paper accepted by MedIA <br> 
 * [Mar 2022] One paper **SimT** accepted by CVPR 2022 <br> 
 * [Jan 2022] One paper **Non-equivalent images and pixels** accepted by MedIA <br> 
 * [Oct 2021] Microsoft Research Asia Fellowship Nomination Award <br> 
