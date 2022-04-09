@@ -11,6 +11,10 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Zhen Chen, Jun Liu, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
+> <b><a href="" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a></b> [<a href="https://github.com/CityU-AIM-Group/SFDA-FSM" target="_blank">code</a>]<br>
+> Chen Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan.<br>
+> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
+
 ### Conference Papers	
 > <b><a href="https://arxiv.org/abs/2203.15202" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/475830652" target="_blank">知乎</a>] <br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan. <br>
