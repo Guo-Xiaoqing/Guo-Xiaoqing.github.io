@@ -11,7 +11,7 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Zhen Chen, Jun Liu, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
-> <b><a href="" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a></b> [<a href="https://github.com/CityU-AIM-Group/SFDA-FSM" target="_blank">code</a>]<br>
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841522001049" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a></b> [<a href="https://github.com/CityU-AIM-Group/SFDA-FSM" target="_blank">code</a>]<br>
 > Chen Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
