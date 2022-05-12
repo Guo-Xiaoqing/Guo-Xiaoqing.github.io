@@ -4,6 +4,8 @@ title: "News"
 author_profile: true
 ---
 
+* [May 2022] One paper accepted by IEEE TMI <br> 
+* [May 2022] One paper early accepted by MICCAI 2022 <br> 
 * [Apr 2022] One paper accepted by MedIA <br> 
 * [Mar 2022] One paper **SimT** accepted by CVPR 2022 <br> 
 * [Jan 2022] One paper **Non-equivalent images and pixels** accepted by MedIA <br> 
