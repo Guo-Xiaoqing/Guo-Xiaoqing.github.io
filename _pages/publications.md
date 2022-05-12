@@ -15,10 +15,18 @@ author_profile: true
 > Chen Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
+> <b><a href="" target="_blank">D2-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities</a></b> [<a href="https://github.com/CityU-AIM-Group/D2Net" target="_blank">code</a>]<br>
+Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
+
 ### Conference Papers	
 > <b><a href="https://arxiv.org/abs/2203.15202" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/475830652" target="_blank">知乎</a>] <br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan. <br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2022</b></i>), New Orleans, Louisiana, USA. <br>
+
+> <b><a href="" target="_blank">Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</a></b> <br>
+> Yuanyuan Chen, <b>Xiaoqing Guo</b>, Yong Xia, Yixuan Yuan. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
 ## 2021
 ### Journal Papers
