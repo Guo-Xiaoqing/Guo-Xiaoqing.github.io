@@ -7,8 +7,9 @@ author_profile: true
 
 ## Journal Reviews
   * IEEE Transactions on Medical Imaging (IEEE TMI)
+  * IEEE Transactions on Image Processing (IEEE TIP)
   * Pattern Recognition
-  *  Medical Physics
+  * Medical Physics
 
 ## Conference Reviews
   * CVPR 2022, MICCAI 2022, ECCV 2022
