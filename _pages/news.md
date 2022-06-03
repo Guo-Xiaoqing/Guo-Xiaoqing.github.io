@@ -4,6 +4,7 @@ title: "News"
 author_profile: true
 ---
 
+* [Jun 2022] One paper **JCAS** accepted by MICCAI 2022 <br> 
 * [May 2022] One paper accepted by IEEE TMI <br> 
 * [May 2022] One paper early accepted by MICCAI 2022 <br> 
 * [Apr 2022] One paper accepted by MedIA <br> 
