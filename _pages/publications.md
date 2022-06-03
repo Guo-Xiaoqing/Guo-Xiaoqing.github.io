@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2022
 ### Journal Papers
+> <b><a href="https://ieeexplore.ieee.org/document/9541376" target="_blank">Semantic-oriented Labeled-to-unlabeled Distribution Translation for Image Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/L2uDT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/476326328" target="_blank">知乎</a>] <br>
+> <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan.<br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
+
 > <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000469" target="_blank">Non-equivalent images and pixels: confidence-aware resampling with meta-learning mixup for polyp segmentation</a></b> <br>
 > <b>Xiaoqing Guo</b>, Zhen Chen, Jun Liu, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
@@ -24,16 +28,16 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan. <br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2022</b></i>), New Orleans, Louisiana, USA. <br>
 
+> <b><a href="" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</a></b> <br>
+> <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
+
 > <b><a href="" target="_blank">Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</a></b> <br>
 > Yuanyuan Chen, <b>Xiaoqing Guo</b>, Yong Xia, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
 ## 2021
 ### Journal Papers
-> <b><a href="https://ieeexplore.ieee.org/document/9541376" target="_blank">Semantic-oriented Labeled-to-unlabeled Distribution Translation for Image Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/L2uDT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/476326328" target="_blank">知乎</a>] <br>
-> <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan.<br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
-
 > <b><a href="https://ieeexplore.ieee.org/document/9305717" target="_blank">Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation</a></b> [<a href="https://github.com/Guo-Xiaoqing/ThresholdNet" target="_blank">code</a>] [<a href="https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw" target="_blank">MICS中文推送</a>] <br>
 > <b>Xiaoqing Guo</b>, Chen Yang, Yajie Liu, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
