@@ -15,13 +15,17 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Zhen Chen, Jun Liu, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
-> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841522001049" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a></b> [<a href="https://github.com/CityU-AIM-Group/SFDA-FSM" target="_blank">code</a>]<br>
-> Chen Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan.<br>
-> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
-
 > <b><a href="https://ieeexplore.ieee.org/document/9775681" target="_blank">D2-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities</a></b> [<a href="https://github.com/CityU-AIM-Group/D2Net" target="_blank">code</a>]<br>
 Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
+
+> <b><a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a></b> [<a href="https://github.com/CityU-AIM-Group/Prototypical-Graph-DA" target="_blank">code</a>] <br>
+> Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan.<br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
+
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841522001049" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a></b> [<a href="https://github.com/CityU-AIM-Group/SFDA-FSM" target="_blank">code</a>]<br>
+> Chen Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan.<br>
+> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
 ### Conference Papers	
 > <b><a href="https://arxiv.org/abs/2203.15202" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/475830652" target="_blank">知乎</a>] <br>
@@ -45,10 +49,6 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.
 > <b><a href="https://doi.org/10.1016/j.media.2021.102196" target="_blank">Dynamic-weighting Hierarchical Segmentation Network for Medical Images</a></b> [<a href="https://github.com/CityU-AIM-Group/DW-HieraSeg" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Chen Yang, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
-
-> <b><a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a></b> [<a href="https://github.com/CityU-AIM-Group/Prototypical-Graph-DA" target="_blank">code</a>] <br>
-> Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan.<br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 	
 > <b><a href="https://ieeexplore.ieee.org/document/9339901" target="_blank">Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction</a></b> [<a href="https://github.com/franciszchen/SRD-SAI" target="_blank">code</a>] <br>
 > Zhen Chen, <b>Xiaoqing Guo</b>, Peter Y. M. Woo, Yixuan Yuan. <br>
