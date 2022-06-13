@@ -16,7 +16,7 @@ author_profile: true
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
 > <b><a href="https://ieeexplore.ieee.org/document/9775681" target="_blank">D2-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities</a></b> [<a href="https://github.com/CityU-AIM-Group/D2Net" target="_blank">code</a>]<br>
-Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.
+Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
 
 > <b><a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a></b> [<a href="https://github.com/CityU-AIM-Group/Prototypical-Graph-DA" target="_blank">code</a>] <br>
