@@ -32,7 +32,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan. <br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2022</b></i>), New Orleans, Louisiana, USA. <br>
 
-> <b><a href="" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2206.07994" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</a></b> [<a href="https://github.com/CityU-AIM-Group/JCAS" target="_blank">code</a>]<br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
