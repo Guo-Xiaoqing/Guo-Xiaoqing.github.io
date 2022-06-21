@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/blob/main/images/Word_Art.png)
+![](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/blob/master/images/Word_Art.png)
 
 * I am currently a fourth year (2021-2022) Ph.D. student in Department of Electrical Engineering at **City University of Hong Kong (CityU)**, supervised by Prof. <a href="http://www.ee.cityu.edu.hk/~yxyuan/index.htm" target="_blank">Yixuan Yuan</a>.
 * I received B. Eng. degree in Department of Biomedical Engineering at **Beihang University (BUAA)** in 2018. 
