@@ -4,9 +4,11 @@ title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /images/
   - /about.html
 ---
+
+![](Word Art.png)
 
 * I am currently a fourth year (2021-2022) Ph.D. student in Department of Electrical Engineering at **City University of Hong Kong (CityU)**, supervised by Prof. <a href="http://www.ee.cityu.edu.hk/~yxyuan/index.htm" target="_blank">Yixuan Yuan</a>.
 * I received B. Eng. degree in Department of Biomedical Engineering at **Beihang University (BUAA)** in 2018. 
