@@ -36,6 +36,11 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
+
+> <b><a href="" target="_blank">Unknown-Oriented Learning for Open Set Domain Adaptation</a></b> <br>
+> Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
+> <em>European Conference on Computer Vision</em> (<i><b>ECCV 2022</b></i>), Tel-Aviv. <br>
+
 > <b><a href="" target="_blank">Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</a></b> <br>
 > Yuanyuan Chen, <b>Xiaoqing Guo</b>, Yong Xia, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
