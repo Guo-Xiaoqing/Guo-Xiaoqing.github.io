@@ -22,6 +22,9 @@ author_profile: true
   * MICCAI 2019, Shenzhen, China <a href="MICCAI2019Poster.pdf" target="_blank">[Poster]</a>
   * ISBI 2019, Venice, Italy
 
+## Student Organizer of Conference 
+  * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a>
+
 ## Teaching
   * EE4211 Computer Vision, TA	
   * EE4146 Data Engineering and Learning System, TA	
