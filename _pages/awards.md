@@ -7,7 +7,7 @@ author_profile: true
 * <a href="https://www.msra.cn/zh-cn/connections/academic-programs/fellows" target="_blank">Microsoft Research Asia Fellowship Nomination Award</a> (28 students in Asia-Pacific Area), Microsoft, 2021 
 * Outstanding Academic Performance Award (OAPA), City University of Hong Kong, 2021 
 * Research Tuition Scholarship (RTS), City University of Hong Kong, 2021 - 2022
-* First in polyp detection, 3rd International Endoscopy Computer Vision Challenge and Workshop (EndoCV2021), 2021
+* 1st in polyp detection, <a href="https://endocv2021.grand-challenge.org/evaluation/round-ii-detection-genralization-challenge/leaderboard/" target="_blank">3rd International Endoscopy Computer Vision Challenge (EndoCV2021)</a>, 2021
 * Outstanding Academic Performance Award (OAPA), City University of Hong Kong, 2020  
 * Research Tuition Scholarship (RTS), City University of Hong Kong, 2020 - 2021 
 * Outstanding Academic Performance Award (OAPA), City University of Hong Kong, 2019 
