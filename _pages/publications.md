@@ -84,7 +84,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2021</b></i>), Strasbourg, France. <br>
 	
-> <b><a href="http://ceur-ws.org/Vol-2886/paper7.pdf" target="_blank">Comprehensive Polyp Detection and Segmentation with Heterogeneous Endoscopic Data</a></b> <br>
+> <b><a href="http://ceur-ws.org/Vol-2886/paper7.pdf" target="_blank">Joint Polyp Detection and Segmentation with Heterogeneous Endoscopic Data</a></b> <br>
 > Wuyang Li, Chen Yang, Jie Liu, Xinyu Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>The 3rd International Endoscopy Computer Vision Challenge and Workshop (EndoCV) of ISBI 2021</em>, Nice, France. (Ranked <b>1st</b> place in polyp detection) <br>
 
