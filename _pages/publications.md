@@ -32,7 +32,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan. <br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2022</b></i>), New Orleans, Louisiana, USA. <br>
 
-> <b><a href="https://arxiv.org/abs/2206.07994" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</a></b> [<a href="https://github.com/CityU-AIM-Group/JCAS" target="_blank">code</a>]<br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16440-8_56" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</a></b> [<a href="https://github.com/CityU-AIM-Group/JCAS" target="_blank">code</a>]<br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
@@ -41,7 +41,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>European Conference on Computer Vision</em> (<i><b>ECCV 2022</b></i>), Tel-Aviv. <br>
 
-> <b><a href="" target="_blank">Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_49" target="_blank">Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</a></b> <br>
 > Yuanyuan Chen, <b>Xiaoqing Guo</b>, Yong Xia, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
