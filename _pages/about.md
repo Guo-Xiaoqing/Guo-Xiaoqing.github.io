@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+* I am currently a Postdoc Fellow in <a href="http://www.ee.cityu.edu.hk/~yxyuan/index.htm" target="_blank">Artificial Intelligence in Medicine (AIM) group</a> at **City University of Hong Kong (CityU)**, advised by Prof. <a href="http://www.ee.cityu.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>.
+* I will work as a Postdoctoral Researcher in the <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/#" target="_blank">Biomedical Image Analysis (BioMedIA) group</a> and the <a href="https://www.robots.ox.ac.uk/~vgg/index.html" target="_blank">Visual Geometry Group (VGG)</a> at **University of Oxford** in November 2022.
 * I obtained Ph.D. degree in Department of Electrical Engineering at **City University of Hong Kong (CityU)** in 2022, advised by Prof. <a href="http://www.ee.cityu.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>.
 * I received B. Eng. degree in Department of Biomedical Engineering at **Beihang University (BUAA)** in 2018. 
 * I was a research assistant in Department of Electrical Engineering at **Tsinghua University** during 2017-2018, advised by Prof. Yongfeng Huang. 
