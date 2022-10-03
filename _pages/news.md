@@ -4,7 +4,7 @@ title: "News"
 author_profile: true
 ---
 
-* [Aug 2022] I pass the oral defense and become a Dr.! 🌟 <br> 
+* [Aug 2022] I passed the oral defense and became a Dr.! 🌟 <br> 
 * [Jul 2022] One paper accepted by ECCV 2022 <br> 
 * [Jun 2022] One paper **JCAS** accepted by MICCAI 2022 <br> 
 * [May 2022] One paper accepted by IEEE TMI <br> 
