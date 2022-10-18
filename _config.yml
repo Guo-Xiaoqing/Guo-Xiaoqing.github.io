@@ -9,8 +9,8 @@
 # locale                   : "en-US"
 title                    : "Xiaoqing's Homepage"
 title_separator          : "-"
-name                     : &name "GUO Xiaoqing"
-description              : &description "personal description"
+name                     : &name "Dr. Xiaoqing Guo"
+description              : &description "郭小青"
 url                      : https://guo-xiaoqing.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guo-xiaoqing/guo-xiaoqing.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "GUO Xiaoqing"
+  name             : "Dr. Xiaoqing Guo"
   avatar           : "xiaoqingguo.png"
   bio              : "Postdoc Fellow"
   location         : "Hong Kong"
