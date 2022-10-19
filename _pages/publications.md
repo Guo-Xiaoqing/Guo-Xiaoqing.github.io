@@ -99,7 +99,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Information Forensics and Security</em> (<i><b>IEEE TIFS</b></i>), 2018 <br>
 
 ### Conference Papers
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33" target="_blank">Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classfication</a></b> [<a href="https://github.com/Guo-Xiaoqing/Triple-ANet" target="_blank">code</a>] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33" target="_blank">Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification</a></b> [<a href="https://github.com/Guo-Xiaoqing/Triple-ANet" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2019</b></i>), Shenzhen, China. <br>
 
