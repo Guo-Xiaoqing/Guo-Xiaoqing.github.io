@@ -3,7 +3,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
-* Outstanding Research Thesis Award (only 6 awardees in CityU), City University of Hong Kong, 2022 
+* Outstanding Research Thesis Award (only 6 awardees at CityU in 2022), City University of Hong Kong, 2022 
 * <a href="https://www.msra.cn/zh-cn/connections/academic-programs/fellows" target="_blank">Microsoft Research Asia Fellowship Nomination Award</a> (28 students in Asia-Pacific Area), Microsoft, 2021 
 * Outstanding Academic Performance Award (OAPA), City University of Hong Kong, 2021 
 * Research Tuition Scholarship (RTS), City University of Hong Kong, 2021 - 2022
