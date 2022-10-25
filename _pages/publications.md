@@ -37,7 +37,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
 
-> <b><a href="" target="_blank">Unknown-Oriented Learning for Open Set Domain Adaptation</a></b> <br>
+> <b><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf" target="_blank">Unknown-Oriented Learning for Open Set Domain Adaptation</a></b> <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>European Conference on Computer Vision</em> (<i><b>ECCV 2022</b></i>), Tel-Aviv. <br>
 
