@@ -13,6 +13,6 @@ redirect_from:
 * I obtained Ph.D. degree in Department of Electrical Engineering at **City University of Hong Kong (CityU)** in 2022, advised by Prof. <a href="http://www.ee.cityu.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>.
 * I received B. Eng. degree in Department of Biomedical Engineering at **Beihang University (BUAA)** in 2018. 
 * I was a research assistant in Department of Electrical Engineering at **Tsinghua University** during 2017-2018, advised by Prof. Yongfeng Huang. 
-* My research interests include medical image analysis and deep learning. Recently, I am dedicated to out-of-distribution generalization, learning with noisy labels, few-shot learning. Previously, I studied topics of making adequate use of unlabeled data and augmenting the limited labeled data for data-efficient deep learning. 
+* My research interests include medical image analysis and deep learning. Recently, I am dedicated to out-of-distribution generalization, zero/few-shot learning, learning with noisy labels. Previously, I studied topics of making adequate use of unlabeled data and augmenting the limited labeled data for data-efficient deep learning. 
 
 ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/Word_Art.png)
