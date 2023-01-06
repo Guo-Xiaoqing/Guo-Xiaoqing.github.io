@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Learning with Noisy Labeled Data
+## Learning with Noisy Labeled Data
 
 In the medical domain, acquiring high-quality pixel-level annotations is often difficult due to the lack of experienced annotators and visual ambiguity in object boundaries. With limited budgets and efforts, the resulting annotated datasets would involve a varying amount of label noise, ranging from small boundary offsets to large region errors. The presence of label noises may mislead the segmentation model to memorize wrong semantic correlations, resulting in severely degraded generalizability. Hence, developing medical image segmentation techniques that are robust to noisy labels in training data is of great importance. We are interested in both closed-set and open-set label noises. We investigate label noises under the setting of weakly-supervised learning, semi-supervised learning, and domain adaptation. 
 
@@ -22,7 +22,7 @@ In the medical domain, acquiring high-quality pixel-level annotations is often d
 
 
 
-# Learning from Cross-domain Labeled Data
+## Learning from Cross-domain Labeled Data
 
 With only unlabeled data available, we can transfer the knowledge learned from virtually synthesized labeled data, public labeled data, or labeled data from other medical centers (source domain data) to our unlabeled target domain data. In this scenario, when directly applied to target data, fully supervised learning models that learn on source data usually result in significant performance degradation and show unsatisfactory generalizability due to the domain gap. For instance, colonoscopy images from multiple centers often exhibit different imaging conditions, such as illumination effect and color distribution, because imaging devices and parameter settings are not well standardized. Therefore, bridging the domain gap is the key to effectively leveraging cross-domain labeled data for improving generalizability on unlabeled target domain data. We are interested in unsupervised domain adaptation, source free domain adaptation, and open-set domain adaptation.
 
@@ -40,7 +40,7 @@ With only unlabeled data available, we can transfer the knowledge learned from v
 ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/cross_domain_data.png)
 
 
-# Learning from Massive Unlabeled Data
+## Learning from Massive Unlabeled Data
 
 Since the data distribution bias depends on the sample size, the scarce labeled data distribution often deviates from the desired one due to the small sample size, which inevitably leads to the overfitting problem of the optimized model. Fortunately, the unlabeled data is abundant and easy to access in real clinical practice. To make adequate use of unlabeled data along with scarce labeled data, we investigate the semi-supervised learning (SSL) methods in medical image diagnosis and segmentation. These SSL methods are capable of building better models that compensate for the lack of labeled training data, and are demonstrated to be beneficial for enhancing the generalizability of medical image analysis models. Moreover, we rethink the overfitting problem caused by scarce labeled data and propose a new strategy, coined Labeled-to-unlabeled Distribution Translation (L2uDT), by taking the advantages of data augmentation and SSL methods, aiming at alleviating the labeled data distribution bias problem. 
 
@@ -52,7 +52,7 @@ Since the data distribution bias depends on the sample size, the scarce labeled 
 ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/massive_unlabeled_data.png)
 
 
-# Learning with Scarce Labeled Data
+## Learning with Scarce Labeled Data
 
 Deep learning methods generally require large amounts of annotated data to prevent overfitting problem, which is a common concern when the model fitted to a limited training set results in a poor generalization ability to test data. However, high-quality annotated datasets are scarce in the medical domain, especially in *medical image segmentation* and *rare disease diagnosis*. Because manual pixel-wise annotations in medical image segmentation requires professional medical knowledge as well as a high degree of concentration, and it is hard to collect sufficient training data for rare diseases in practice. Consequently, the lack of abundant annotated datasets becomes a bottleneck to deep learning-based methods in medical image analysis. We are interested in learning with scarce labeled data through data augmentation and few-shot learning.
 
