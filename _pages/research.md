@@ -25,5 +25,5 @@ Deep learning methods generally require large amounts of annotated data to preve
 * <a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_49" target="_blank">Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</a> [MICCAI'22]
 * <a href="https://ieeexplore.ieee.org/document/9305717" target="_blank">Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation</a> [TMI’21]
 
-![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/scarce labeled data.png)
+![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/scarce_labeled_data.png)
 
