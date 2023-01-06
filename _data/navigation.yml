@@ -3,11 +3,11 @@ main:
   - title: "News"
     url: /news/
 
+  - title: "Projects"
+    url: /projects/ 
+
   - title: "Publications"
     url: /publications/       
-
-#   - title: "Researches"
-#     url: /researches/ 
     
   - title: "Awards"
     url: /awards/
