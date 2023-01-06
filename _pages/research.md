@@ -12,10 +12,10 @@ With only unlabeled data available, we can transfer the knowledge learned from v
 
 #### Relevant Work/Publications:
 * <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.html" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a> [CVPR'22]
-* <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.html" target="_blank">MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation</a> [CVPR'21]
 * <a href="https://www.sciencedirect.com/science/article/pii/S1361841522001049" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a> [MedIA'22]
 * <a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a> [TMI'22]
 * <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf" target="_blank">Unknown-Oriented Learning for Open Set Domain Adaptation</a> [ECCV'22]
+* <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.html" target="_blank">MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation</a> [CVPR'21]
 * <a href="https://doi.org/10.1016/j.media.2021.102052" target="_blank">Consolidated domain adaptive detection and localization framework for cross-device colonoscopic images</a> [MedIA'21]
 * <a href="https://ieeexplore.ieee.org/document/9423517" target="_blank">Mutual-Prototype Adaptation for Cross-Domain Polyp Segmentation</a> [JBHI'21]
 * <a href="https://ieeexplore.ieee.org/document/9636111" target="_blank">COINet: Adaptive Segmentation with Co-Interactive Network for Autonomous Driving</a> [IROS'21]
