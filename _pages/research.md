@@ -8,7 +8,7 @@ author_profile: true
 
 # Learning from Cross-domain Labeled Data
 
-With only unlabeled data available, we can transfer the knowledge learned from virtually synthesized labeled data, public labeled data, or labeled data from other medical centers (source domain data) to our unlabeled target domain data. In this scenario, when directly applied to target data, fully supervised learning models that learn on source data usually result in significant performance degradation and show unsatisfactory generalizability due to the domain gap. For instance, colonoscopy images from multiple centers often exhibit different imaging conditions, such as illumination effect and color distribution, because imaging devices and parameter settings are not well standardized. Therefore, bridging the domain gap is the key to effectively leveraging cross-domain labeled data for improving generalizability on unlabeled target domain data. We are interested in unsupervised domain adaptation, source-free domain adaptation.
+With only unlabeled data available, we can transfer the knowledge learned from virtually synthesized labeled data, public labeled data, or labeled data from other medical centers (source domain data) to our unlabeled target domain data. In this scenario, when directly applied to target data, fully supervised learning models that learn on source data usually result in significant performance degradation and show unsatisfactory generalizability due to the domain gap. For instance, colonoscopy images from multiple centers often exhibit different imaging conditions, such as illumination effect and color distribution, because imaging devices and parameter settings are not well standardized. Therefore, bridging the domain gap is the key to effectively leveraging cross-domain labeled data for improving generalizability on unlabeled target domain data. We are interested in unsupervised domain adaptation, source free domain adaptation, and open-set domain adaptation.
 
 #### Relevant Work/Publications:
 * <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.html" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a> [CVPR'22]
@@ -21,7 +21,7 @@ With only unlabeled data available, we can transfer the knowledge learned from v
 * <a href="https://ieeexplore.ieee.org/document/9636111" target="_blank">COINet: Adaptive Segmentation with Co-Interactive Network for Autonomous Driving</a> [IROS'21]
 * <a href="https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26" target="_blank">Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation</a> [MICCAI'21]
 
-![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/massive_unlabeled_data.png)
+![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/cross_domain_data.png)
 
 
 # Learning from Massive Unlabeled Data
