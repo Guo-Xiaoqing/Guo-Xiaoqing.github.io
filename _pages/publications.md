@@ -21,7 +21,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 
 > <b><a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a></b> [<a href="https://github.com/CityU-AIM-Group/Prototypical-Graph-DA" target="_blank">code</a>] <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan.<br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841522001049" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a></b> [<a href="https://github.com/CityU-AIM-Group/SFDA-FSM" target="_blank">code</a>]<br>
 > Chen Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan.<br>
