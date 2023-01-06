@@ -5,9 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
+
+# Learning from Cross-domain Labeled Data
+
+With only unlabeled data available, we can transfer the knowledge learned from virtually synthesized labeled data, public labeled data, or labeled data from other medical centers (source domain data) to our unlabeled target domain data. In this scenario, when directly applied to target data, fully supervised learning models that learn on source data usually result in significant performance degradation and show unsatisfactory generalizability due to the domain gap. For instance, colonoscopy images from multiple centers often exhibit different imaging conditions, such as illumination effect and color distribution, because imaging devices and parameter settings are not well standardized. Therefore, bridging the domain gap is the key to effectively leveraging cross-domain labeled data for improving generalizability on unlabeled target domain data. We are interested in unsupervised domain adaptation, source-free domain adaptation.
+
+#### Relevant Work/Publications:
+* <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.html" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a> [CVPR'22]
+* <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.html" target="_blank">MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation</a> [CVPR'21]
+* <a href="https://www.sciencedirect.com/science/article/pii/S1361841522001049" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a> [MedIA'22]
+* <a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a> [TMI'22]
+* <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf" target="_blank">Unknown-Oriented Learning for Open Set Domain Adaptation</a> [ECCV'22]
+* <a href="https://doi.org/10.1016/j.media.2021.102052" target="_blank">Consolidated domain adaptive detection and localization framework for cross-device colonoscopic images</a> [MedIA'21]
+* <a href="https://ieeexplore.ieee.org/document/9423517" target="_blank">Mutual-Prototype Adaptation for Cross-Domain Polyp Segmentation</a> [JBHI'21]
+* <a href="https://ieeexplore.ieee.org/document/9636111" target="_blank">COINet: Adaptive Segmentation with Co-Interactive Network for Autonomous Driving</a> [IROS'21]
+* <a href="https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26" target="_blank">Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation</a> [MICCAI'21]
+
+![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/massive_unlabeled_data.png)
+
+
 # Learning from Massive Unlabeled Data
 
-Since the data distribution bias depends on the sample size, the scarce labeled data distribution often deviates from the desired one due to the small sample size, which inevitably leads to the overfitting problem of the optimized model. Fortunately, the unlabeled data is abundant and easy to access in real clinical practice. To make adequate use of unlabeled data along with scarce labeled data, we first investigate the semi-supervised learning (SSL) methods in medical image diagnosis and segmentation. These SSL methods are capable of building better models that compensate for the lack of labeled training data, and are demonstrated to be beneficial for enhancing the generalizability of automated medical image analysis models. Moreover, we rethink the overfitting problem caused by scarce labeled data and propose a new strategy, coined Labeled-to-unlabeled Distribution Translation (L2uDT), by taking the advantages of data augmentation and SSL methods, aiming at alleviating the labeled data distribution bias problem. 
+Since the data distribution bias depends on the sample size, the scarce labeled data distribution often deviates from the desired one due to the small sample size, which inevitably leads to the overfitting problem of the optimized model. Fortunately, the unlabeled data is abundant and easy to access in real clinical practice. To make adequate use of unlabeled data along with scarce labeled data, we investigate the semi-supervised learning (SSL) methods in medical image diagnosis and segmentation. These SSL methods are capable of building better models that compensate for the lack of labeled training data, and are demonstrated to be beneficial for enhancing the generalizability of medical image analysis models. Moreover, we rethink the overfitting problem caused by scarce labeled data and propose a new strategy, coined Labeled-to-unlabeled Distribution Translation (L2uDT), by taking the advantages of data augmentation and SSL methods, aiming at alleviating the labeled data distribution bias problem. 
 
 #### Relevant Work/Publications:
 * <a href="https://ieeexplore.ieee.org/document/9541376" target="_blank">Semantic-oriented Labeled-to-unlabeled Distribution Translation for Image Segmentation</a> [TMI'22]
@@ -27,4 +46,3 @@ Deep learning methods generally require large amounts of annotated data to preve
 * <a href="https://ieeexplore.ieee.org/document/9305717" target="_blank">Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation</a> [TMI’21]
 
 ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/scarce_labeled_data.png)
-
