@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+* [Jan 2023] I came to University of Oxford to work as a postdoctoral research fellow <br>
 * [Dec 2022] Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award 2022 of City University of Hong Kong <br>
 * [Oct 2022] Outstanding Research Thesis Award 2022 of City University of Hong Kong <br>
 * [Aug 2022] I passed the oral defense and became a Dr.! 🌟 <br> 
