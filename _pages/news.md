@@ -4,6 +4,7 @@ title: "News"
 author_profile: true
 ---
 
+* [Mar 2023] Selected as one of the Global Top 80 Chinese Young Female Scholars in Artificial Intelligence, 2023 <br>
 * [Feb 2023] One paper **Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation** accepted by IEEE TPAMI <br>
 * [Jan 2023] I came to University of Oxford to work as a postdoctoral research fellow <br>
 * [Dec 2022] Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award 2022 of City University of Hong Kong <br>
