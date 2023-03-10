@@ -3,6 +3,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* <a href="https://xueshu.baidu.com/usercenter/index/aischolar2023" target="_blank">Global Top 80 Chinese Young Female Scholars in Artificial Intelligence</a>, 2023
 * Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award (only 5 awardees in the history of CityU before 2022), City University of Hong Kong, 2022 
 * Outstanding Research Thesis Award (only 8 awardees at CityU in 2022), City University of Hong Kong, 2022 
 * <a href="https://www.msra.cn/zh-cn/connections/academic-programs/fellows" target="_blank">Microsoft Research Asia Fellowship Nomination Award</a> (28 students in Asia-Pacific Area), Microsoft, 2021 
