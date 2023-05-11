@@ -25,7 +25,8 @@ author_profile: true
   * ISBI 2019, Venice, Italy
 
 ## *Student Organizer of Conference* 
-  * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a>
+  * Deep Generative Models workshop @ MICCAI 2022
+<!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
 
 ## *Teaching*
   * EE4211 Computer Vision, TA	
