@@ -8,11 +8,14 @@ author_profile: true
 ## *Journal Reviews*
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * IEEE Transactions on Image Processing (IEEE TIP)
+  * IEEE Journal of Biomedical and Health Informatics (JBHI)
+  * IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
   * Pattern Recognition
+  * Scientific Reports
   * Medical Physics
 
 ## *Conference Reviews*
-  * CVPR 2023, MICCAI 2023, ICCV 2023, ICML 2023
+  * CVPR 2023, MICCAI 2023, ICCV 2023, ICML 2023, NeurIPS 2023
   * CVPR 2022, MICCAI 2022, ECCV 2022
   * ISBI 2021, MICCAI 2021
   * MICCAI 2019 
