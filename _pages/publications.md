@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2023
 ### Journal Papers
-> <b><a href="https://ieeexplore.ieee.org/document/10048580" target="_blank">Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT" target="_blank">code</a>] <br>
+> <b><a href="https://ieeexplore.ieee.org/document/10048580" target="_blank">Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT/tree/SimT-TPAMI23" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023 <br>
 
