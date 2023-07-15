@@ -11,6 +11,11 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023 <br>
 
+### Conference Papers	
+> <b><a href="" target="_blank">Novel Scenes & Classes: Towards Adaptive Open-set Object Detection</a></b> [<a href="" target="_blank">code coming soon</a>] <br>
+> Wuyang Li, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
+> <em>IEEE International Conference on Computer Vision</em> (<i><b>ICCV 2023</b></i>), Paris, France. <br>
+
 ## 2022
 ### Journal Papers
 > <b><a href="https://ieeexplore.ieee.org/document/9541376" target="_blank">Semantic-oriented Labeled-to-unlabeled Distribution Translation for Image Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/L2uDT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/476326328" target="_blank">知乎</a>] <br>
