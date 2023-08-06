@@ -28,7 +28,7 @@ author_profile: true
   * ISBI 2019, Venice, Italy
 
 ## *Student Organizer of Conference* 
-  * Deep Generative Models workshop @ MICCAI 2022
+  * Deep Generative Models workshop @ MICCAI 2021, 2022
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
 
 ## *Teaching*
