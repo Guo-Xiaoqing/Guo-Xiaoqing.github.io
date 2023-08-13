@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Publications [(Google Scholar)](https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en)"
+title: "Selected Publications [(Google Scholar)](https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
