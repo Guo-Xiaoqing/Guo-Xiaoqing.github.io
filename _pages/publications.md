@@ -1,9 +1,11 @@
 ---
 #layout: archive
-title: "Selected Publications [(Google Scholar)](https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en)"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<!-- title: "Selected Publications [(Google Scholar)](https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en)" --> 
 
 ## 2023
 ### Journal Papers
