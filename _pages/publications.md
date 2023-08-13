@@ -12,7 +12,7 @@ author_profile: true
 > <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023 <br>
 
 ### Conference Papers	
-> <b><a href="" target="_blank">Novel Scenes & Classes: Towards Adaptive Open-set Object Detection</a></b> [<a href="" target="_blank">code coming soon</a>] <br>
+> <b><a href="" target="_blank">Novel Scenes & Classes: Towards Adaptive Open-set Object Detection</a></b> [<a href="" target="_blank">code coming soon</a>] **`Oral`**<br>
 > Wuyang Li, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>IEEE International Conference on Computer Vision</em> (<i><b>ICCV 2023</b></i>), Paris, France. <br>
 
