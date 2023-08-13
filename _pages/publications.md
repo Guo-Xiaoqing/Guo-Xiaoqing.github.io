@@ -79,7 +79,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>JBHI</b></i>), 2021 <br>
 
 > <b><a href="https://pubmed.ncbi.nlm.nih.gov/35007256/" target="_blank">A Morphometric Analysis of Commonly Used Craniometric Approaches for Freehand Ventriculoperitoneal Shunting</a></b> <br>
-> Peter YM Woo, Desiree KK Wong, Yixuan Yuan, <b>Xiaoqing Guo</b>, Michael KW See, Matthew Tam, Alain KS Wong, Kwong-Yau Chan. <br>
+> Peter Y. M. Woo, Desiree KK Wong, Yixuan Yuan, <b>Xiaoqing Guo</b>, Michael KW See, Matthew Tam, Alain KS Wong, Kwong-Yau Chan. <br>
 > <em>Operative Neurosurgery</em>, 2021 <br>
 
 ### Conference Papers	
@@ -119,7 +119,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2020</b></i>), Iowa City, Iowa, USA. <br>
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-46643-5_28" target="_blank">Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction</a></b> <br>
-> <b>Xiaoqing Guo</b>, Chen Yang, Pak Lun Lam, Peter Y.M. Woo, Yixuan Yuan. <br>
+> <b>Xiaoqing Guo</b>, Chen Yang, Pak Lun Lam, Peter Y. M. Woo, Yixuan Yuan. <br>
 > <em>Brain Lesion (BrainLes) workshop of MICCAI 2019</em>, Shenzhen, China. <br>
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_18" target="_blank">Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution</a></b> [<a href="https://github.com/franciszchen/SWD-Net" target="_blank">code</a>] <br>
