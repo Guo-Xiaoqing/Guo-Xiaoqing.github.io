@@ -11,7 +11,12 @@ author_profile: true
 ### Journal Papers
 > <b><a href="https://ieeexplore.ieee.org/document/10048580" target="_blank">Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT/tree/SimT-TPAMI23" target="_blank">code</a>] <br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan.<br>
-> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023 <br>
+> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023 <be>
+
+> <b><a href="" target="_blank">Dynamic Feature Splicing for Few-Shot Rare Disease Diagnosis</a></b> <br>
+> Yuanyuan Chen\*, <b>Xiaoqing Guo</b>\*, Yongsheng Pan, Yong Xia, Yixuan Yuan. (* indicates equal contribution)<br>
+> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2023 <br>
+	
 
 ### Conference Papers	
 > <b><a href="" target="_blank">Novel Scenes & Classes: Towards Adaptive Open-set Object Detection</a></b> [<a href="" target="_blank">code coming soon</a>] **(Oral)**<br>
