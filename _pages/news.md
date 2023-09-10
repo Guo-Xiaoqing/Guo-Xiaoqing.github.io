@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+* [Sep 2023] One paper accepted by MedIA. Thanks to all co-authors. Congrats to Yuanyuan! <br> 
 * [Jul 2023] One paper accepted by ICCV 2023 **(Oral)**. Congrats to Wuyang! <br> 
 * [May 2023] CVPR 2023 Outstanding Reviewer Award <br> 
 * [Mar 2023] Selected as one of the Global Top 80 Chinese Young Female Scholars in Artificial Intelligence, 2023 <br>
@@ -10,7 +11,7 @@ author_profile: true
 * [Jan 2023] I came to University of Oxford to work as a postdoctoral research fellow <br>
 * [Dec 2022] Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award 2022 of City University of Hong Kong <br>
 * [Oct 2022] Outstanding Research Thesis Award 2022 of City University of Hong Kong <br>
-* [Aug 2022] I passed the oral defense and became a Dr.! 🌟 <br> 
+* [Aug 2022] I passed the oral defence and became a Dr.! 🌟 <br> 
 * [Jul 2022] One paper accepted by ECCV 2022 <br> 
 * [Jun 2022] One paper **JCAS** accepted by MICCAI 2022 <br> 
 * [May 2022] One paper accepted by IEEE TMI <br> 
