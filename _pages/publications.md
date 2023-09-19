@@ -13,7 +13,7 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023 <be>
 
-> <b><a href="" target="_blank">Dynamic Feature Splicing for Few-Shot Rare Disease Diagnosis</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002190" target="_blank">Dynamic Feature Splicing for Few-Shot Rare Disease Diagnosis</a></b> <br>
 > Yuanyuan Chen\*, <b>Xiaoqing Guo</b>\*, Yongsheng Pan, Yong Xia, Yixuan Yuan. (* indicates equal contribution)<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2023 <br>
 	
