@@ -19,7 +19,7 @@ author_profile: true
 	
 
 ### Conference Papers	
-> <b><a href="https://github.com/CityU-AIM-Group/SOMA/blob/main/assets/paper.pdf" target="_blank">Novel Scenes & Classes: Towards Adaptive Open-set Object Detection</a></b> [<a href="https://github.com/CityU-AIM-Group/SOMA" target="_blank">code</a>] **(Oral)**<br>
+> <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Novel_Scenes__Classes_Towards_Adaptive_Open-set_Object_Detection_ICCV_2023_paper.html" target="_blank">Novel Scenes & Classes: Towards Adaptive Open-set Object Detection</a></b> [<a href="https://github.com/CityU-AIM-Group/SOMA" target="_blank">code</a>] **(Oral)**<br>
 > Wuyang Li, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>IEEE International Conference on Computer Vision</em> (<i><b>ICCV 2023</b></i>), Paris, France. <br>
 
