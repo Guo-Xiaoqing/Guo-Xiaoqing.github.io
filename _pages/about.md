@@ -15,11 +15,12 @@ redirect_from:
 * I received B. Eng. degree in Department of Biomedical Engineering at **Beihang University (BUAA)** in 2018. 
 * I was a research assistant in Department of Electrical Engineering at **Tsinghua University** during 2017-2018.<!-- , advised by Prof. Yongfeng Huang.  -->
 
+I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions in EE/BME/CS. Please don't hesitate to reach out to me if you have any relevant job opportunities.
 
 <!-- * My research interests include medical image analysis and deep learning. Recently, I am dedicated to multi-modal learning with vision, text, audio, and gaze, out-of-distribution generalization, zero/few-shot learning, learning with noisy labels. Previously, I studied topics of making adequate use of unlabeled data and augmenting the limited labeled data for data-efficient deep learning.  -->
 <!-- * My research interest is in the interdisciplinary field of medical image analysis, computer vision, and machine learning, aiming to create innovative intelligent systems that can support the high-quality medical diagnosis and interventions.  -->
 * My research interest is in the interdisciplinary field of medical data analysis, computer vision, and machine learning, aiming to create innovative intelligent systems that can support high-quality human/machine interactions and clinical decision-making. 
-* Recently, I am dedicated to multi-modal learning with video, text, audio, and gaze modalities, explainable AI, out-of-distribution generalization, learning with noisy labels. 
-* Previously, I focused on developing <a href="https://guo-xiaoqing.github.io/research/" target="_blank">annotation-efficient deep learning</a> solutions, such as data augmentation, semi-supervised learning, domain adaptation, learning with noisy labels, to achieve trustworthy and effective intelligent systems. 
+* Recently, I am dedicated to multi-modal learning with video, text, audio, and gaze modalities, out-of-distribution generalization, and learning with noisy labels. 
+* Previously, I focused on developing <a href="https://guo-xiaoqing.github.io/research/" target="_blank">annotation-efficient deep learning</a> solutions, such as data augmentation, semi-supervised learning, domain adaptation, out-of-distribution generalization, and learning with noisy labels, to achieve trustworthy and effective intelligent systems. 
 
 ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/Word_Art.png)
