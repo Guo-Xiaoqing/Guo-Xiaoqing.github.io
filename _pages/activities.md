@@ -7,6 +7,8 @@ author_profile: true
 
 ## *Journal Reviews*
   * IEEE Transactions on Medical Imaging (IEEE TMI)
+  * Medical Image Analysis (MedIA)
+  * International Journal of Computer Vision (IJCV)
   * IEEE Transactions on Image Processing (IEEE TIP)
   * IEEE Journal of Biomedical and Health Informatics (JBHI)
   * IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
