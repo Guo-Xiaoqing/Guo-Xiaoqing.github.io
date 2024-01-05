@@ -7,6 +7,14 @@ author_profile: true
 
 <!-- title: "Selected Publications [(Google Scholar)](https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en)" --> 
 
+## 2024
+### Journal Papers
+> <b><a href="https://ieeexplore.ieee.org/document/10379649" target="_blank">Disentangle Then Calibrate with Gradient Guidance: A Unified Framework for Common and Rare Disease Diagnosis</a></b> <br>
+> Yuanyuan Chen, <b>Xiaoqing Guo</b>,, Yong Xia, Yixuan Yuan. <br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
+
+
+
 ## 2023
 ### Journal Papers
 > <b><a href="https://ieeexplore.ieee.org/document/10048580" target="_blank">Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT/tree/SimT-TPAMI23" target="_blank">code</a>] <br>
