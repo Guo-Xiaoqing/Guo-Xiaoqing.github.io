@@ -17,7 +17,7 @@ author_profile: true
   * Medical Physics
 
 ## *Conference Reviews*
-  * CVPR 2023, MICCAI 2023, ICCV 2023, ICML 2023, NeurIPS 2023
+  * CVPR 2023 (Outstanding Reviewer Award), MICCAI 2023, ICCV 2023, ICML 2023, NeurIPS 2023
   * CVPR 2022, MICCAI 2022, ECCV 2022
   * ISBI 2021, MICCAI 2021
   * MICCAI 2019 
