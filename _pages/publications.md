@@ -13,7 +13,10 @@ author_profile: true
 > Yuanyuan Chen, <b>Xiaoqing Guo</b>,, Yong Xia, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
 
-
+### Conference Papers	
+> <b><a href="" target="_blank">Diversified and Personalized Multi-rater Medical Image Segmentation</a></b> [<a href="" target="_blank">code coming soon</a>] <br>
+> Yicheng Wu, Xiangde Luo, Zhe Xu, <b>Xiaoqing Guo</b>, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai. <br>
+> <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2024</b></i>), Seattle, USA. <br>
 
 ## 2023
 ### Journal Papers
