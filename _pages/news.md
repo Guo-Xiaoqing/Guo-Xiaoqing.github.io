@@ -3,8 +3,10 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
-* [Jan 2024] One paper accepted by IEEE TMI. Thanks to all co-authors. Congrats to Yuanyuan! <br> 
-* [Sep 2023] One paper accepted by MedIA. Thanks to all co-authors. Congrats to Yuanyuan! <br> 
+
+* [Feb 2024] Our D-Persona on mult-rater segmentation accepted by CVPR 2024. Congrats to Yicheng!
+* [Jan 2024] One paper accepted by IEEE TMI. Congrats to Yuanyuan! <br> 
+* [Sep 2023] One paper accepted by MedIA. Congrats to Yuanyuan! <br> 
 * [Jul 2023] One paper accepted by ICCV 2023 **(Oral)**. Congrats to Wuyang! <br> 
 * [May 2023] CVPR 2023 Outstanding Reviewer Award <br> 
 * [Mar 2023] Selected as one of the Global Top 80 Chinese Young Female Scholars in Artificial Intelligence, 2023 <br>
