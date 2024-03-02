@@ -13,6 +13,10 @@ author_profile: true
 > Yuanyuan Chen, <b>Xiaoqing Guo</b>,, Yong Xia, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
 
+> <b><a href="https://www.nature.com/articles/s41586-024-07078-9" target="_blank">Integrated lithium niobate microwave photonic processing engine</a></b> <br>
+> Hanke Feng, Tong Ge, <b>Xiaoqing Guo</b>, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang. <br>
+> <i><b>Nature</b></i>, 2024 <be>
+
 ### Conference Papers	
 > <b><a href="" target="_blank">Diversified and Personalized Multi-rater Medical Image Segmentation</a></b> [<a href="" target="_blank">code coming soon</a>] <br>
 > Yicheng Wu, Xiangde Luo, Zhe Xu, <b>Xiaoqing Guo</b>, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai. <br>
