@@ -13,7 +13,7 @@ author_profile: true
 > Yuanyuan Chen, <b>Xiaoqing Guo</b>,, Yong Xia, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
 
-> <b><a href="https://www.nature.com/articles/s41586-024-07078-9" target="_blank">Integrated lithium niobate microwave photonic processing engine</a></b> <br>
+> <b><a href="https://www.nature.com/articles/s41586-024-07078-9" target="_blank">Integrated Lithium Niobate Microwave Photonic Processing Engine</a></b> <br>
 > Hanke Feng, Tong Ge, <b>Xiaoqing Guo</b>, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang. <br>
 > <i><b>Nature</b></i>, 2024 <be>
 
@@ -44,7 +44,7 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
 
-> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000469" target="_blank">Non-equivalent images and pixels: confidence-aware resampling with meta-learning mixup for polyp segmentation</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000469" target="_blank">Non-equivalent Images and Pixels: Confidence-aware Resampling with Meta-learning Mixup for Polyp Segmentation</a></b> <br>
 > <b>Xiaoqing Guo</b>, Zhen Chen, Jun Liu, Yixuan Yuan.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
 
@@ -92,7 +92,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > Zhen Chen, <b>Xiaoqing Guo</b>, Peter Y. M. Woo, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2021 <br>
 		
-> <b><a href="https://doi.org/10.1016/j.media.2021.102052" target="_blank">Consolidated domain adaptive detection and localization framework for cross-device colonoscopic images</a></b> [<a href="https://github.com/xinyuliu-jeffrey/ConsolidatedPolypDA" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1b54y1H7tF" target="_blank">video</a>] <br>
+> <b><a href="https://doi.org/10.1016/j.media.2021.102052" target="_blank">Consolidated Domain Adaptive Detection and Localization Framework for Cross-device Colonoscopic Images</a></b> [<a href="https://github.com/xinyuliu-jeffrey/ConsolidatedPolypDA" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1b54y1H7tF" target="_blank">video</a>] <br>
 > Xinyu Liu, <b>Xiaoqing Guo</b>, Yajie Liu, Yixuan Yuan. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2021 <br>
 	
