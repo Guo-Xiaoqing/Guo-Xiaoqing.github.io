@@ -18,7 +18,7 @@ author_profile: true
 > <i><b>Nature</b></i>, 2024 <be>
 
 ### Conference Papers	
-> <b><a href="" target="_blank">Diversified and Personalized Multi-rater Medical Image Segmentation</a></b> [<a href="" target="_blank">code coming soon</a>] <br>
+> <b><a href="https://arxiv.org/abs/2403.13417" target="_blank">Diversified and Personalized Multi-rater Medical Image Segmentation</a></b> [<a href="https://github.com/ycwu1997/D-Persona" target="_blank">code</a>] <br>
 > Yicheng Wu, Xiangde Luo, Zhe Xu, <b>Xiaoqing Guo</b>, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai. <br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2024</b></i>), Seattle, USA. <br>
 
