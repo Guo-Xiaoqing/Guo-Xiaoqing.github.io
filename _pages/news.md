@@ -10,13 +10,13 @@ author_profile: true
 * [Jan 2024] One paper accepted by IEEE TMI. Congrats to Yuanyuan! <br> 
 * [Sep 2023] One paper accepted by MedIA. Congrats to Yuanyuan! <br> 
 * [Jul 2023] One paper accepted by ICCV 2023 **(Oral)** (152/8260=1.8%). Congrats to Wuyang! <br> 
-* [May 2023] CVPR 2023 Outstanding Reviewer Award (232/7000=3.3%) <br> 
-* [Mar 2023] Selected as one of the Global Top 80 Chinese Young Female Scholars in Artificial Intelligence, 2023 <br>
+* [May 2023] **CVPR 2023 Outstanding Reviewer Award** (232/7000=3.3%) <br> 
+* [Mar 2023] Selected as one of the **Global Top 80 Chinese Young Female Scholars in Artificial Intelligence**said he , 2023 <br>
 * [Feb 2023] One paper **Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation** accepted by IEEE TPAMI <br>
 * [Jan 2023] I came to University of Oxford to work as a postdoctoral research fellow <br>
-* [Dec 2022] Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award 2022 of City University of Hong Kong <br>
-* [Oct 2022] Outstanding Research Thesis Award 2022 of City University of Hong Kong <br>
-* [Aug 2022] I passed the oral defence and became a Dr.! 🌟 <br> 
+* [Dec 2022] Chow Yei Ching School of Graduate Studies **Outstanding Doctoral Research Award** 2022 of City University of Hong Kong <br>
+* [Oct 2022] **Outstanding Research Thesis Award** 2022 of City University of Hong Kong <br>
+* [Aug 2022] I passed the oral defense and became a Dr.! 🌟 <br> 
 * [Jul 2022] One paper accepted by ECCV 2022 <br> 
 * [Jun 2022] One paper **JCAS** accepted by MICCAI 2022 <br> 
 * [May 2022] One paper accepted by IEEE TMI <br> 
