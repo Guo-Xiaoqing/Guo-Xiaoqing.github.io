@@ -6,10 +6,10 @@ author_profile: true
 
 
 * [Feb 2024] Our 'Integrated lithium niobate microwave photonic processing engine' accepted by **Nature**. Congrats to Hanke, Tong, and Prof. Wang!
-* [Feb 2024] Our D-Persona on mult-rater segmentation accepted by CVPR 2024. Congrats to Yicheng!
+* [Feb 2024] Our D-Persona on mult-rater segmentation accepted by CVPR 2024 with **Highlight** (324/11532=2.8%). Congrats to Yicheng!
 * [Jan 2024] One paper accepted by IEEE TMI. Congrats to Yuanyuan! <br> 
 * [Sep 2023] One paper accepted by MedIA. Congrats to Yuanyuan! <br> 
-* [Jul 2023] One paper accepted by ICCV 2023 **(Oral)**. Congrats to Wuyang! <br> 
+* [Jul 2023] One paper accepted by ICCV 2023 **(Oral)** (152/8260=1.8%). Congrats to Wuyang! <br> 
 * [May 2023] CVPR 2023 Outstanding Reviewer Award <br> 
 * [Mar 2023] Selected as one of the Global Top 80 Chinese Young Female Scholars in Artificial Intelligence, 2023 <br>
 * [Feb 2023] One paper **Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation** accepted by IEEE TPAMI <br>
