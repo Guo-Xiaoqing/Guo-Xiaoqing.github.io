@@ -17,6 +17,10 @@ author_profile: true
 > Hanke Feng, Tong Ge, <b>Xiaoqing Guo</b>, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang. <br>
 > <i><b>Nature</b></i>, 2024 <be>
 
+> <b><a href="" target="_blank">Dynamic Attribute-guided Few-shot Open-set Network for Medical Image Diagnosis</a></b> <br>
+> Yiwen Luo, <b>Xiaoqing Guo</b>, Li Liu, Yixuan Yuan. <br>
+> <i><b>Expert Systems With Applications</b></i>, 2024 <be>
+
 ### Conference Papers	
 > <b><a href="https://arxiv.org/abs/2403.13417" target="_blank">Diversified and Personalized Multi-rater Medical Image Segmentation</a></b> [<a href="https://github.com/ycwu1997/D-Persona" target="_blank">code</a>] **(Highlight)** <br>
 > Yicheng Wu, Xiangde Luo, Zhe Xu, <b>Xiaoqing Guo</b>, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai. <br>
