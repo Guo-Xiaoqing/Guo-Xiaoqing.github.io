@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 
+* [Apr 2024] One paper accepted by Expert Systems With Applications. Congrats to Yiwen! <br> 
 * [Feb 2024] Our 'Integrated lithium niobate microwave photonic processing engine' accepted by **Nature**. Congrats to Hanke, Tong, and Prof. Wang!
 * [Feb 2024] Our D-Persona on mult-rater segmentation accepted by CVPR 2024 with **Highlight** (324/11532=2.8%). Congrats to Yicheng!
 * [Jan 2024] One paper accepted by IEEE TMI. Congrats to Yuanyuan! <br> 
