@@ -19,7 +19,7 @@ author_profile: true
 
 > <b><a href="" target="_blank">Dynamic Attribute-guided Few-shot Open-set Network for Medical Image Diagnosis</a></b> <br>
 > Yiwen Luo, <b>Xiaoqing Guo</b>, Li Liu, Yixuan Yuan. <br>
-> <i><b>Expert Systems With Applications</b></i>, 2024 <be>
+> <em>Expert Systems With Applications</em>, 2024 <be>
 
 ### Conference Papers	
 > <b><a href="https://arxiv.org/abs/2403.13417" target="_blank">Diversified and Personalized Multi-rater Medical Image Segmentation</a></b> [<a href="https://github.com/ycwu1997/D-Persona" target="_blank">code</a>] **(Highlight)** <br>
