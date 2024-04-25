@@ -17,7 +17,7 @@ author_profile: true
 > Hanke Feng, Tong Ge, <b>Xiaoqing Guo</b>, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang. <br>
 > <i><b>Nature</b></i>, 2024 <be>
 
-> <b><a href="" target="_blank">Dynamic Attribute-guided Few-shot Open-set Network for Medical Image Diagnosis</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424009643?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=215584584&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM469036&utm_medium=email&utm_source=AC_" target="_blank">Dynamic Attribute-guided Few-shot Open-set Network for Medical Image Diagnosis</a></b> <br>
 > Yiwen Luo, <b>Xiaoqing Guo</b>, Li Liu, Yixuan Yuan. <br>
 > <em>Expert Systems With Applications</em>, 2024 <be>
 
