@@ -14,7 +14,7 @@ description              : &description "郭小青"
 url                      : https://guo-xiaoqing.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guo-xiaoqing/guo-xiaoqing.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "oxford.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
