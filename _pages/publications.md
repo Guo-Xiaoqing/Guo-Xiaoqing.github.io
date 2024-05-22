@@ -75,14 +75,14 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16440-8_56" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</a></b> [<a href="https://github.com/CityU-AIM-Group/JCAS" target="_blank">code</a>]<br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
-> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b> 2022</b></i>), Singapore. <br>
 
 
 > <b><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf" target="_blank">Unknown-Oriented Learning for Open Set Domain Adaptation</a></b> <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>European Conference on Computer Vision</em> (<i><b>ECCV 2022</b></i>), Tel-Aviv. <br>
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_49" target="_blank">Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_49" target="_blank">Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</a></b> **(Early Accept)** <br>
 > Yuanyuan Chen, <b>Xiaoqing Guo</b>, Yong Xia, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
@@ -121,7 +121,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Baopu Li, Yixuan Yuan. <br>
 > <em>IEEE International Conference on Intelligent Robots and Systems</em> (<i><b>IROS 2021</b></i>), Prague, Czech Republic. <br>
 	
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26" target="_blank">Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SePIG" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1Kw411o7DY" target="_blank">video</a>] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26" target="_blank">Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SePIG" target="_blank">code</a>] [<a href="https://www.bilibili.com/video/BV1Kw411o7DY" target="_blank">video</a>] **(Early Accept)** <br>
 > Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2021</b></i>), Strasbourg, France. <br>
 	
@@ -140,7 +140,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <em>IEEE Transactions on Information Forensics and Security</em> (<i><b>IEEE TIFS</b></i>), 2018 <br>
 
 ### Conference Papers
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33" target="_blank">Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification</a></b> [<a href="https://github.com/Guo-Xiaoqing/Triple-ANet" target="_blank">code</a>] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33" target="_blank">Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification</a></b> [<a href="https://github.com/Guo-Xiaoqing/Triple-ANet" target="_blank">code</a>] **(Early Accept)** <br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2019</b></i>), Shenzhen, China. <br>
 
@@ -152,7 +152,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 > <b>Xiaoqing Guo</b>, Chen Yang, Pak Lun Lam, Peter Y. M. Woo, Yixuan Yuan. <br>
 > <em>Brain Lesion (BrainLes) workshop of MICCAI 2019</em>, Shenzhen, China. <br>
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_18" target="_blank">Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution</a></b> [<a href="https://github.com/franciszchen/SWD-Net" target="_blank">code</a>] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_18" target="_blank">Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution</a></b> [<a href="https://github.com/franciszchen/SWD-Net" target="_blank">code</a>] **(Early Accept)** <br>
 > Zhen Chen, <b>Xiaoqing Guo</b>, Chen Yang, Bulat Ibragimov, Yixuan Yuan. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2020</b></i>), Lima, Peru. <br>
 
