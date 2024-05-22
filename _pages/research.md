@@ -8,6 +8,12 @@ author_profile: true
 
 <!-- ## *Learning from Multi-modality Data* -->
 
+## *Learning to Simplify Sonography*
+
+> We develop deep learning methods utilizing real-world ultrasound scanning videos, audio, and probe movement data to simplify sonography. Our goal is to offer real-time interpretation and navigation guidance for trainee sonographers, thereby reducing the learning curve and enhancing their confidence.
+
+<img src="https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/IMG_7931.HEIC" width=50% height=50%>
+
 
 ## *Learning with Noisy Labeled Data*
 
