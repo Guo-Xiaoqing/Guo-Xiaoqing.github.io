@@ -26,6 +26,10 @@ author_profile: true
 > Yicheng Wu, Xiangde Luo, Zhe Xu, <b>Xiaoqing Guo</b>, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai. <br>
 > <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2024</b></i>), Seattle, USA. <br>
 
+> <b><a href="" target="_blank">IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</a></b> [<a href="" target="_blank">code coming soon</a>] **(Early Accept)** <br>
+> Ziyun Liang, <b>Xiaoqing Guo</b>, Alison Noble, Konstantinos Kamnitsas. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <be>
+
 ## 2023
 ### Journal Papers
 > <b><a href="https://ieeexplore.ieee.org/document/10048580" target="_blank">Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT/tree/SimT-TPAMI23" target="_blank">code</a>] <br>
