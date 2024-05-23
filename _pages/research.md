@@ -8,9 +8,9 @@ author_profile: true
 
 <!-- ## *Learning from Multi-modality Data* -->
 
-## *Learning to Simplify Sonography*
+<!-- ## *Learning to Simplify Sonography*
 
-<!-- > Traditional free-hand ultrasound examinations require extensive clinical experience, expertise and are time-consuming. To simplify sonography, we develop deep learning methods utilizing real-world ultrasound scanning videos, audio, and probe movement data. Our goal is to offer real-time interpretation and navigation guidance for trainee sonographers, thereby reducing the learning curve and enhancing their confidence. For qualified sonographers, we aim to save their time by automating certain examination procedures.
+> Traditional free-hand ultrasound examinations require extensive clinical experience, expertise and are time-consuming. To simplify sonography, we develop deep learning methods utilizing real-world ultrasound scanning videos, audio, and probe movement data. Our goal is to offer real-time interpretation and navigation guidance for trainee sonographers, thereby reducing the learning curve and enhancing their confidence. For qualified sonographers, we aim to save their time by automating certain examination procedures.
 
 ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg) -->
 
