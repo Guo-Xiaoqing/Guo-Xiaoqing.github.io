@@ -15,7 +15,7 @@ author_profile: true
 <!-- <img src="https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg" width=35% height=35%> 
 <div align=center> <img src="https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg" width=35% height=35%> </div> -->
 
-![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.png)
+![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg)
 
 ## *Learning with Noisy Labeled Data*
 
