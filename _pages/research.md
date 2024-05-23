@@ -12,8 +12,10 @@ author_profile: true
 
 > Traditional free-hand ultrasound examinations require extensive clinical experience, expertise and are time-consuming. To simplify sonography, we develop deep learning methods utilizing real-world ultrasound scanning videos, audio, and probe movement data. Our goal is to offer real-time interpretation and navigation guidance for trainee sonographers, thereby reducing the learning curve and enhancing their confidence. For qualified sonographers, we aim to save their time by automating certain examination procedures.
 
-<!-- <img src="https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg" width=35% height=35%> -->
-<div align=center> <img src="https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg" width=35% height=35%> </div>
+<!-- <img src="https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg" width=35% height=35%> 
+<div align=center> <img src="https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg" width=35% height=35%> </div> -->
+
+![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.png)
 
 ## *Learning with Noisy Labeled Data*
 
