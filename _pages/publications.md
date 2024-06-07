@@ -75,7 +75,7 @@ Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16440-8_56" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</a></b> [<a href="https://github.com/CityU-AIM-Group/JCAS" target="_blank">code</a>]<br>
 > <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
-> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b> 2022</b></i>), Singapore. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2022</b></i>), Singapore. <br>
 
 
 > <b><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf" target="_blank">Unknown-Oriented Learning for Open Set Domain Adaptation</a></b> <br>
