@@ -28,7 +28,7 @@ author_profile: true
 
 > <b><a href="" target="_blank">Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation
 </a></b> <br>
-> Qianhui Men, <b>Xiaoqing Guo</b>, Alison Noble. <br>
+> Qianhui Men, <b>Xiaoqing Guo</b>, Aris Papageorghiou, Alison Noble. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <be>
 
 > <b><a href="https://arxiv.org/abs/2406.02422" target="_blank">IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</a></b> [<a href="https://github.com/ZiyunLiang/IterMask2" target="_blank">code</a>] **(Early Accept)** <br>
