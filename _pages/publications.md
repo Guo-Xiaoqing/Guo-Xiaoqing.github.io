@@ -9,12 +9,16 @@ author_profile: true
 
 ## 2024
 ### Journal Papers
+> <b><a href="" target="_blank">Infproto-powered Adaptive Classifier and Agnostic Feature Learning for Single Domain Generalization in Medical Images</a></b> <br>
+> <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan. <br>
+> <em>International Journal of Computer Vision</em> (<i><b>IJCV</b></i>), 2024 <be>
+
 > <b><a href="https://ieeexplore.ieee.org/document/10379649" target="_blank">Disentangle Then Calibrate with Gradient Guidance: A Unified Framework for Common and Rare Disease Diagnosis</a></b> <br>
 > Yuanyuan Chen, <b>Xiaoqing Guo</b>, Yong Xia, Yixuan Yuan. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
 
 > <b><a href="https://www.nature.com/articles/s41586-024-07078-9" target="_blank">Integrated Lithium Niobate Microwave Photonic Processing Engine</a></b> [<a href="https://www.cityu.edu.hk/media/news/2024/02/29/cityuhk-develops-world-leading-microwave-photonics-chip-ultrahigh-speed-signal-processing" target="_blank">CityU News</a>]<br>
-> Hanke Feng, Tong Ge, <b>Xiaoqing Guo</b>, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang. <br>
+> Hanke Feng\*, Tong Ge\*, <b>Xiaoqing Guo</b>, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang. <br>
 > <i><b>Nature</b></i>, 2024 <be>
 
 > <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424009643?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=215584584&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM469036&utm_medium=email&utm_source=AC_" target="_blank">Dynamic Attribute-guided Few-shot Open-set Network for Medical Image Diagnosis</a></b> <br>
