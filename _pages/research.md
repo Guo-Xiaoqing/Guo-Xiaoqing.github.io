@@ -15,7 +15,7 @@ author_profile: true
 > * <a href="" target="_blank">MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</a> [MICCAI'24]
 > * <a href="" target="_blank">Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</a> [MICCAI'24]
 
-![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/US.jpg)
+![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/US.png)
 
 ## *Learning with Noisy Labeled Data*
 
