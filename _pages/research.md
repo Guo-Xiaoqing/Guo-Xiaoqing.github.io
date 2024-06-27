@@ -8,17 +8,20 @@ author_profile: true
 
 <!-- ## *Learning from Multi-modality Data* -->
 
-<!-- ## *Learning to Simplify Sonography*
+## *Learning to Simplify Sonography*
 
 > Traditional free-hand ultrasound examinations require extensive clinical experience, expertise and are time-consuming. To simplify sonography, we develop deep learning methods utilizing real-world ultrasound scanning videos, audio, and probe movement data. Our goal is to offer real-time interpretation and navigation guidance for trainee sonographers, thereby reducing the learning curve and enhancing their confidence. For qualified sonographers, we aim to save their time by automating certain examination procedures.
+> ### *Relevant Publications:*
+> * <a href="" target="_blank">MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</a> [MICCAI'24]
+> * <a href="" target="_blank">Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</a> [MICCAI'24]
 
-![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/XQ_US.jpg) -->
+![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/US.jpg)
 
 ## *Learning with Noisy Labeled Data*
 
 > In the medical domain, acquiring high-quality pixel-level annotations is often difficult due to the lack of experienced annotators and visual ambiguity in object boundaries. With limited budgets and efforts, the resulting annotated datasets would involve a varying amount of label noise, ranging from small boundary offsets to large region errors. The presence of label noises may mislead the segmentation model to memorize wrong semantic correlations, resulting in severely degraded generalizability. Hence, developing medical image segmentation techniques that are robust to noisy labels in training data is of great importance. We are interested in both closed-set and open-set label noises. We investigate label noises under the setting of weakly-supervised learning, semi-supervised learning, and domain adaptation. 
 > ### *Relevant Publications:*
-> * <a href="https://link.springer.com/chapter/10.1007/978-3-031-16440-8_56" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image > Segmentation with Noisy Labels</a> [MICCAI'22]
+> * <a href="https://link.springer.com/chapter/10.1007/978-3-031-16440-8_56" target="_blank">Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</a> [MICCAI'22]
 > * <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.html" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a> [CVPR'22]
 > * <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000469" target="_blank">Non-equivalent images and pixels: confidence-aware resampling with meta-learning mixup for polyp segmentation</a> [MedIA'22]
 > * <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf" target="_blank">Unknown-Oriented Learning for Open Set Domain Adaptation</a> [ECCV'22]
