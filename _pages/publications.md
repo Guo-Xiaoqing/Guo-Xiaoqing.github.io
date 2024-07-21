@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2024
 ### Journal Papers
-> <b><a href="" target="_blank">Infproto-powered Adaptive Classifier and Agnostic Feature Learning for Single Domain Generalization in Medical Images</a></b> <br>
+> <b><a href="https://link.springer.com/article/10.1007/s11263-024-02158-9#Abs1" target="_blank">Infproto-powered Adaptive Classifier and Agnostic Feature Learning for Single Domain Generalization in Medical Images</a></b> <br>
 > <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan. <br>
 > <em>International Journal of Computer Vision</em> (<i><b>IJCV</b></i>), 2024 <be>
 
