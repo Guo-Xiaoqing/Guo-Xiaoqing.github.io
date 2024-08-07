@@ -17,6 +17,7 @@ redirect_from:
 
 <!-- I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions. Please don't hesitate to reach out to me if you have any relevant job opportunities.  -->
 
+
 <!-- * My research interests include medical image analysis and deep learning. Recently, I am dedicated to multi-modal learning with vision, text, audio, and gaze, out-of-distribution generalization, zero/few-shot learning, learning with noisy labels. Previously, I studied topics of making adequate use of unlabeled data and augmenting the limited labeled data for data-efficient deep learning.  -->
 <!-- * My research interest is in the interdisciplinary field of medical image analysis, computer vision, and machine learning, aiming to create innovative intelligent systems that can support the high-quality medical diagnosis and interventions.  -->
 * My research interest is in the interdisciplinary field of medical data analysis, computer vision, and machine learning, aiming to create innovative intelligent systems that can support high-quality **human-machine interaction/collaboration** and **trustworthy clinical decision-making**. 
