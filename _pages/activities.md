@@ -22,6 +22,11 @@ author_profile: true
   * ISBI 2021, MICCAI 2021
   * MICCAI 2019 
 
+## *Invited Talks*
+ *"Have AI Models Truly Simplified Healthcare? Beyond Model-centric AI, Data- and Human-centric AI for Simplified Healthcare"*
+ * [Jun 2024], Hong Kong Baptist University (HKBU), Hong Kong <a href="https://www.comp.hkbu.edu.hk/v1/file/news/seminar_20240612.pdf" target="_blank">[Poster]</a>
+ * [Apr 2024], The University of Hong Kong (HKU), Hong Kong <a href="https://www.eee.hku.hk/events/20240423-2/" target="_blank">[Poster]</a>
+
 ## *Conference Presentations*
   * MICCAI 2022, Singapore <a href="MICCAI2022ppt.pdf" target="_blank">[PPT]</a> <a href="MICCAI2022Poster.pdf" target="_blank">[Poster]</a>
   * CVPR 2022, New Orleans, Louisiana, USA <a href="CVPR2022ppt.pdf" target="_blank">[PPT]</a> <a href="https://zhuanlan.zhihu.com/p/475830652" target="_blank">[知乎]</a>
@@ -29,7 +34,7 @@ author_profile: true
   * MICCAI 2019, Shenzhen, China <a href="MICCAI2019Poster.pdf" target="_blank">[Poster]</a>
   * ISBI 2019, Venice, Italy
 
-## *Student Organizer of Conference* 
+## *Organizer of Conference* 
   * Deep Generative Models workshop @ MICCAI 2021, 2022
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
 
