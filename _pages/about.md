@@ -15,7 +15,7 @@ redirect_from:
 * I received a B.Eng. degree in the Department of Biomedical Engineering at Beihang University (BUAA) in 2018. 
 * I was a research assistant in the Department of Electrical Engineering at Tsinghua University during 2017-2018.<!-- , advised by Prof. Yongfeng Huang.  -->
 
-I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions. Please don't hesitate to reach out to me if you have any relevant job opportunities.
+<!-- I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions. Please don't hesitate to reach out to me if you have any relevant job opportunities.  -->
 
 <!-- * My research interests include medical image analysis and deep learning. Recently, I am dedicated to multi-modal learning with vision, text, audio, and gaze, out-of-distribution generalization, zero/few-shot learning, learning with noisy labels. Previously, I studied topics of making adequate use of unlabeled data and augmenting the limited labeled data for data-efficient deep learning.  -->
 <!-- * My research interest is in the interdisciplinary field of medical image analysis, computer vision, and machine learning, aiming to create innovative intelligent systems that can support the high-quality medical diagnosis and interventions.  -->
