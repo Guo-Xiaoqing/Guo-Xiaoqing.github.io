@@ -26,7 +26,7 @@ author_profile: true
 > <em>Expert Systems With Applications</em>, 2024 <be>
 
 ### Conference Papers	
-> <b><a href="" target="_blank">MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2408.03761" target="_blank">MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</a></b> <br>
 > <b>Xiaoqing Guo</b>, Qianhui Men, Alison Noble. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <be>
 
