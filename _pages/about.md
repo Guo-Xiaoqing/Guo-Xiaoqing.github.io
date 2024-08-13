@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-<!-- * I am currently a Postdoc Fellow in <a href="http://www.ee.cityu.edu.hk/~yxyuan/index.htm" target="_blank">Artificial Intelligence in Medicine (AIM) group</a> at **City University of Hong Kong (CityU)**, advised by Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>. -->
-<!-- * I am currently a Postdoctoral Researcher in the <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/" target="_blank">Biomedical Image Analysis (BioMedIA) group</a> and the <a href="https://www.robots.ox.ac.uk/~vgg/" target="_blank">Visual Geometry Group (VGG)</a> at <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>, working on the project <a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI</a>. -->
-* I am currently a Postdoctoral Researcher in the Department of Engineering Science at the University of Oxford, advised by Prof. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Alison Noble</a>, working in the projects <a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI</a> and Turing AI WLR Fellowship.
-* I obtained Ph.D. degree in the Department of Electrical Engineering at City University of Hong Kong (CityU) in 2022, advised by Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>.
-* I received a B.Eng. degree in the Department of Biomedical Engineering at Beihang University (BUAA) in 2018. 
-* I was a research assistant in the Department of Electrical Engineering at Tsinghua University during 2017-2018.<!-- , advised by Prof. Yongfeng Huang.  -->
+## Biography
+Xiaoqing Guo is a postdoctoral researcher in the Department of Engineering Science at the University of Oxford, working on the projects <a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI</a> and Turing AI WLR Fellowship. She obtained her Ph.D. degree in the Department of Electrical Engineering at City University of Hong Kong in 2022 and received her B.Eng. degree from Beihang University in 2018. She was a research assistant in the Department of Electrical Engineering at Tsinghua University during 2017-2018. Her research interest is in the interdisciplinary field of AI and healthcare, aiming to create innovative intelligent systems that can support high-quality human-machine interaction/collaboration and trustworthy clinical decision-making. In AI and medical imaging fields, she has published over 30 top journal and conference papers, including TPAMI, CVPR, ICCV, ECCV, TMI, MedIA, MICCAI, and Nature. She has been selected as one of *World’s Top 80 Chinese Young Female Scholars in AI*, the *Rising Star of Women in Engineering* by Asian Deans' Forum 2024, and she has received prestigious awards, such as CVPR Outstanding Reviewer Award, MSRA Fellowship Nomination Award, Outstanding Doctoral Research Award, Outstanding Research Thesis Award, and three year consecutive Outstanding Academic Performance Award. 
 
-<!-- I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions. Please don't hesitate to reach out to me if you have any relevant job opportunities.  -->
+## Working Experience
+* **01/2023-now** Postdoctoral researcher, Department of Engineering Science, University of Oxford, Oxford, UK (Supervisor: Prof. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Alison Noble</a>)
+* **09/2022-12/2022** Postdoctoral researcher, Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China (Supervisor: Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>)
+* **09/2017-07/2018** Research Assistant, Department of Electrical Engineering, Tsinghua University, Beijing, China (Supervisor: Prof. Yongfeng Huang, Prof. Zhongliang Yang)
+
+## Education Experience
+* **09/2018-08/2022** PhD, Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China (Supervisor: Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>)
+* **09/2014-06/2018** Bachelor, Department of Biomedical Engineering, Beihang University, Beijing, China
 
 
-<!-- * My research interests include medical image analysis and deep learning. Recently, I am dedicated to multi-modal learning with vision, text, audio, and gaze, out-of-distribution generalization, zero/few-shot learning, learning with noisy labels. Previously, I studied topics of making adequate use of unlabeled data and augmenting the limited labeled data for data-efficient deep learning.  -->
-<!-- * My research interest is in the interdisciplinary field of medical image analysis, computer vision, and machine learning, aiming to create innovative intelligent systems that can support the high-quality medical diagnosis and interventions.  -->
+## Research Interests
 * My research interest is in the interdisciplinary field of medical data analysis, computer vision, and machine learning, aiming to create innovative intelligent systems that can support high-quality **human-machine interaction/collaboration** and **trustworthy clinical decision-making**. 
 * Recently, I am dedicated to multi-modal learning with video, text, audio, and gaze modalities, human-machine interaction/collaboration, out-of-distribution generalization, and learning with noisy labels. 
 * Previously, I focused on developing <a href="https://guo-xiaoqing.github.io/research/" target="_blank">annotation-efficient deep learning</a> solutions, such as data augmentation, semi-supervised learning, domain adaptation, out-of-distribution generalization, and learning with noisy labels, to achieve trustworthy and effective intelligent systems. 
