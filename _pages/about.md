@@ -27,3 +27,12 @@ Xiaoqing Guo is a postdoctoral researcher in the Department of Engineering Scie
 * Previously, I focused on developing <a href="https://guo-xiaoqing.github.io/research/" target="_blank">annotation-efficient deep learning</a> solutions, such as data augmentation, semi-supervised learning, domain adaptation, out-of-distribution generalization, and learning with noisy labels, to achieve trustworthy and effective intelligent systems. 
 
 ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/Word_Art.png)
+
+### Links
+<a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/" target="_blank">Oxford Noble Group</a>
+
+<a href="https://www.ee.cuhk.edu.hk/~yxyuan/" target="_blank">CUHK AIM Group</a>
+
+<a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI Project</a>
+
+<a href="https://eng.ox.ac.uk/biomedical-image-analysis/" target="_blank">Oxford BioMedIA</a>
