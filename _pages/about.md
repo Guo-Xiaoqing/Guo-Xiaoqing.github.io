@@ -14,7 +14,7 @@ Xiaoqing Guo is a postdoctoral researcher in the Department of Engineering Scie
 ## Working Experience
 * **01/2023-now** Postdoctoral researcher, Department of Engineering Science, University of Oxford, Oxford, UK (Supervisor: Prof. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Alison Noble</a>)
 * **09/2022-12/2022** Postdoctoral researcher, Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China (Supervisor: Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>)
-* **09/2017-07/2018** Research Assistant, Department of Electrical Engineering, Tsinghua University, Beijing, China (Supervisor: Prof. Yongfeng Huang, Prof. Zhongliang Yang)
+* **09/2017-07/2018** Research Assistant, Department of Electrical Engineering, Tsinghua University, Beijing, China
 
 ## Education Experience
 * **09/2018-08/2022** PhD, Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China (Supervisor: Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>)
