@@ -30,7 +30,7 @@ author_profile: true
 > <b>Xiaoqing Guo</b>, Qianhui Men, Alison Noble. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <be>
 
-> <b><a href="" target="_blank">Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation
+> <b><a href="https://arxiv.org/abs/2408.09931" target="_blank">Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation
 </a></b> <br>
 > Qianhui Men, <b>Xiaoqing Guo</b>, Aris Papageorghiou, Alison Noble. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <be>
