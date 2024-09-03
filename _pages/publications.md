@@ -35,7 +35,7 @@ author_profile: true
 > Qianhui Men, <b>Xiaoqing Guo</b>, Aris Papageorghiou, Alison Noble. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <be>
 
-> <b><a href="https://arxiv.org/abs/2406.02422" target="_blank">IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</a></b> [<a href="https://github.com/ZiyunLiang/IterMask2" target="_blank">code</a>] **(Early Accept)** <br>
+> <b><a href="https://arxiv.org/abs/2406.02422" target="_blank">IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</a></b> [<a href="https://github.com/ZiyunLiang/IterMask2" target="_blank">code</a>] **(Early Accept, Oral)** <br>
 > Ziyun Liang, <b>Xiaoqing Guo</b>, Alison Noble, Konstantinos Kamnitsas. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <be>
 
