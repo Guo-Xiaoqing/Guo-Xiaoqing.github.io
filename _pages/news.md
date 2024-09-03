@@ -4,7 +4,7 @@ title: "News"
 author_profile: true
 ---
 
-
+* [Sep 2024] Our MICCAI 2024 paper **IterMask^2** is selected as Oral! <br>
 * [Jul 2024] I’ve been nominated as the **Rising Stars in Women Engineering** at the Asian Deans’ Forum 2024 Rising Stars Women in Engineering Workshop that will be hosted at the National University of Singapore, Singapore.
 * [Jun 2024] One paper **Infproto-powered Adaptive Classifier and Agnostic Feature Learning for Single Domain Generalization in Medical Images** accepted by IJCV <br>
 * [Jun 2024] Two papers (**MMSummary** and **Pose-GuideNet** for simplifying sonography) accepted by MICCAI 2024. Thanks to all the co-authors! Congrats to Qianhui! <br> 
