@@ -1,0 +1,49 @@
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9305717\" target=\"_blank\"><strong>Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/ThresholdNet\" target=\"_blank\">code</a>] [<a href=\"https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw\" target=\"_blank\">MICS中文推送</a>] <strong>(Early Accept)</strong>"
+  authors: "**Xiaoqing Guo**, Chen Yang, Yajie Liu, Yixuan Yuan."
+  display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2021."
+  highlight: 0
+
+- title: "<a href=\"https://doi.org/10.1016/j.media.2021.102196\" target=\"_blank\"><strong>Dynamic-weighting Hierarchical Segmentation Network for Medical Images</strong></a> [<a href=\"https://github.com/CityU-AIM-Group/DW-HieraSeg\" target=\"_blank\">code</a>]"
+  authors: "**Xiaoqing Guo**, Chen Yang, Yixuan Yuan."
+  display: "_Medical Image Analysis_ (**MedIA**), 2021."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9339901\" target=\"_blank\"><strong>Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction</strong></a> [<a href=\"https://github.com/franciszchen/SRD-SAI\" target=\"_blank\">code</a>]"
+  authors: "**Zhen Chen**, **Xiaoqing Guo**, Peter Y. M. Woo, Yixuan Yuan."
+  display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2021."
+  highlight: 0
+
+- title: "<a href=\"https://doi.org/10.1016/j.media.2021.102052\" target=\"_blank\"><strong>Consolidated Domain Adaptive Detection and Localization Framework for Cross-device Colonoscopic Images</strong></a> [<a href=\"https://github.com/xinyuliu-jeffrey/ConsolidatedPolypDA\" target=\"_blank\">code</a>] [<a href=\"https://www.bilibili.com/video/BV1b54y1H7tF\" target=\"_blank\">video</a>]"
+  authors: "Xinyu Liu, **Xiaoqing Guo**, Yajie Liu, Yixuan Yuan."
+  display: "_Medical Image Analysis_ (**MedIA**), 2021."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9423517\" target=\"_blank\"><strong>Mutual-Prototype Adaptation for Cross-Domain Polyp Segmentation</strong></a> [<a href=\"https://github.com/CityU-AIM-Group/MPA-DA\" target=\"_blank\">code</a>]"
+  authors: "Chen Yang, **Xiaoqing Guo**, Meilu Zhu, Bulat Ibragimov, Yixuan Yuan."
+  display: "_IEEE Journal of Biomedical and Health Informatics_ (**JBHI**), 2021."
+  highlight: 0
+
+- title: "<a href=\"https://pubmed.ncbi.nlm.nih.gov/35007256/\" target=\"_blank\"><strong>A Morphometric Analysis of Commonly Used Craniometric Approaches for Freehand Ventriculoperitoneal Shunting</strong></a>"
+  authors: "Peter Y. M. Woo, Desiree KK Wong, Yixuan Yuan, **Xiaoqing Guo**, Michael KW See, Matthew Tam, Alain KS Wong, Kwong-Yau Chan."
+  display: "_Operative Neurosurgery_, 2021."
+  highlight: 0
+
+- title: "<a href=\"https://openaccess.thecvf.com/content/CVPR2021/html/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.html\" target=\"_blank\"><strong>MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation</strong></a> [<a href=\"https://github.com/cyang-cityu/MetaCorrection\" target=\"_blank\">code</a>] [<a href=\"https://www.bilibili.com/video/BV1SX4y1A7Ee\" target=\"_blank\">video</a>] [<a href=\"https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw\" target=\"_blank\">MICS中文推送</a>]"
+  authors: "**Xiaoqing Guo**<sup>*</sup>, Chen Yang<sup>*</sup>, Baopu Li, Yixuan Yuan. (<sup>*</sup> indicates equal contribution)"
+  display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR 2021**), Virtual."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9636111\" target=\"_blank\"><strong>COINet: Adaptive Segmentation with Co-Interactive Network for Autonomous Driving</strong></a>"
+  authors: "Jie Liu, **Xiaoqing Guo**, Baopu Li, Yixuan Yuan."
+  display: "_IEEE International Conference on Intelligent Robots and Systems_ (**IROS 2021**), Prague, Czech Republic."
+  highlight: 0
+
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26\" target=\"_blank\"><strong>Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation</strong></a> [<a href=\"https://github.com/CityU-AIM-Group/SePIG\" target=\"_blank\">code</a>] [<a href=\"https://www.bilibili.com/video/BV1Kw411o7DY\" target=\"_blank\">video</a>] <strong>(Early Accept)</strong>"
+  authors: "Jie Liu, **Xiaoqing Guo**, Yixuan Yuan."
+  display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2021**), Strasbourg, France."
+  highlight: 0
+
+- title: "<a href=\"http://ceur-ws.org/Vol-2886/paper7.pdf\" target=\"_blank\"><strong>Joint Polyp Detection and Segmentation with Heterogeneous Endoscopic Data</strong></a> (Ranked <b>1st</b> place in polyp detection)"
+  authors: "Wuyang Li, Chen Yang, Jie Liu, Xinyu Liu, **Xiaoqing Guo**, Yixuan Yuan."
+  display: "_The 3rd International Endoscopy Computer Vision Challenge and Workshop (EndoCV) of ISBI 2021_ (**MICCAI 2021**), Nice, France."
+  highlight: 0

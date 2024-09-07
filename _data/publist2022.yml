@@ -1,0 +1,44 @@
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9541376\" target=\"_blank\"><strong>Semantic-oriented Labeled-to-unlabeled Distribution Translation for Image Segmentation</strong> [<a href=\"https://github.com/CityU-AIM-Group/L2uDT\" target=\"_blank\">code</a>] [<a href=\"https://zhuanlan.zhihu.com/p/476326328\" target=\"_blank\">知乎</a>]</a>"
+  authors: "**Xiaoqing Guo**, Jie Liu, Yixuan Yuan."
+  display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2022."
+  highlight: 0
+
+- title: "<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S1361841522000469\" target=\"_blank\"><strong>Non-equivalent Images and Pixels: Confidence-aware Resampling with Meta-learning Mixup for Polyp Segmentation</strong></a>"
+  authors: "**Xiaoqing Guo**, Zhen Chen, Jun Liu, Yixuan Yuan."
+  display: "_Medical Image Analysis_ (**MedIA**), 2022."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9775681\" target=\"_blank\"><strong>D2-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities</strong></a> [<a href=\"https://github.com/CityU-AIM-Group/D2Net\" target=\"_blank\">code</a>]"
+  authors: "Qiushi Yang, **Xiaoqing Guo**, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan."
+  display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2022."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9583929\" target=\"_blank\"><strong>Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</strong></a> [<a href=\"https://github.com/CityU-AIM-Group/Prototypical-Graph-DA\" target=\"_blank\">code</a>]"
+  authors: "Jie Liu, **Xiaoqing Guo**, Yixuan Yuan."
+  display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2022."
+  highlight: 0
+
+- title: "<a href=\"https://www.sciencedirect.com/science/article/pii/S1361841522001049\" target=\"_blank\"><strong>Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</strong></a> [<a href=\"https://github.com/CityU-AIM-Group/SFDA-FSM\" target=\"_blank\">code</a>]"
+  authors: "**Xiaoqing Guo**, Chen Yang, Zhen Chen, Yixuan Yuan."
+  display: "_Medical Image Analysis_ (**MedIA**), 2022."
+  highlight: 0
+
+- title: "<a href=\"https://openaccess.thecvf.com/content/CVPR2022/html/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.html\" target=\"_blank\"><strong>SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</strong></a> [<a href=\"https://github.com/CityU-AIM-Group/SimT\" target=\"_blank\">code</a>] [<a href=\"https://zhuanlan.zhihu.com/p/475830652\" target=\"_blank\">知乎</a>]"
+  authors: "**Xiaoqing Guo**, Jie Liu, Tongliang Liu, Yixuan Yuan."
+  display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR 2022**), New Orleans, Louisiana, USA."
+  highlight: 0
+
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-031-16440-8_56\" target=\"_blank\"><strong>Joint Class-Affinity Loss Correction for Robust Medical Image Segmentation with Noisy Labels</strong></a> [<a href=\"https://github.com/CityU-AIM-Group/JCAS\" target=\"_blank\">code</a>]"
+  authors: "**Xiaoqing Guo**, Yixuan Yuan."
+  display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2022**), Singapore."
+  highlight: 0
+
+- title: "<a href=\"https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf\" target=\"_blank\"><strong>Unknown-Oriented Learning for Open Set Domain Adaptation</strong></a>"
+  authors: "Jie Liu, **Xiaoqing Guo**, Yixuan Yuan."
+  display: "_European Conference on Computer Vision_ (**ECCV 2022**), Tel-Aviv."
+  highlight: 0
+
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-031-16437-8_49\" target=\"_blank\"><strong>Disentangle then Calibrate: Selective Treasure Sharing for Generalized Rare Disease Diagnosis</strong></a> <strong>(Early Accept)</strong>"
+  authors: "Yuanyuan Chen, **Xiaoqing Guo**, Yong Xia, Yixuan Yuan."
+  display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2022**), Singapore."
+  highlight: 0

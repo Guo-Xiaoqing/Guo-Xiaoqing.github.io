@@ -1,0 +1,38 @@
+- title: "<a href=\"https://doi.org/10.1016/j.media.2020.101733\" target=\"_blank\"><strong>Semi-supervised WCE Image Classification with Adaptive Aggregated Attention</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/SSL_WCE\" target=\"_blank\">code</a>]"
+  authors: "**Xiaoqing Guo**, Yixuan Yuan."
+  display: "_Medical Image Analysis_ (**MedIA**), 2020."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/abstract/document/8470163\" target=\"_blank\"><strong>RNN-stega: Linguistic steganography based on recurrent neural networks</strong></a> [<a href=\"https://github.com/YangzlTHU/RNN-Stega\" target=\"_blank\">code</a>]"
+  authors: "Zhongliang Yang, **Xiaoqing Guo**, Ziming Chen, Yongfeng Huang, Yujin Zhang."
+  display: "_IEEE Transactions on Information Forensics and Security_ (**IEEE TIFS**), 2018."
+  highlight: 0
+
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-32239-7_33\" target=\"_blank\"><strong>Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/Triple-ANet\" target=\"_blank\">code</a>] <strong>(Early Accept)</strong>"
+  authors: "**Xiaoqing Guo**, Yixuan Yuan."
+  display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2019**), Shenzhen, China."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/document/9098417\" target=\"_blank\"><strong>Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation</strong></a> [<a href=\"https://github.com/Guo-Xiaoqing/Skin-Seg\" target=\"_blank\">code</a>]"
+  authors: "**Xiaoqing Guo**, Zhen Chen, Yixuan Yuan."
+  display: "_IEEE International Symposium on Biomedical Imaging_ (**ISBI 2020**), Iowa City, Iowa, USA."
+  highlight: 0
+
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-46643-5_28\" target=\"_blank\"><strong>Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction</strong></a>"
+  authors: "**Xiaoqing Guo**, Chen Yang, Pak Lun Lam, Peter Y. M. Woo, Yixuan Yuan."
+  display: "_Brain Lesion (BrainLes) workshop of MICCAI 2019_, Shenzhen, China."
+  highlight: 0
+
+- title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-59722-1_18\" target=\"_blank\"><strong>Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution</strong></a> [<a href=\"https://github.com/franciszchen/SWD-Net\" target=\"_blank\">code</a>] <strong>(Early Accept)</strong>"
+  authors: "Zhen Chen, **Xiaoqing Guo**, Chen Yang, Bulat Ibragimov, Yixuan Yuan."
+  display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2020**), Lima, Peru."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/abstract/document/8759498\" target=\"_blank\"><strong>Prostate Segmentation with Encoder-Decoder Densely Connected Convolutional Network (ED-DenseNet)</strong></a>"
+  authors: "Yixuan Yuan, Wenjian Qin, **Xiaoqing Guo**, Mark Buyyounouski, Steve Hancock, Bin Han, Lei Xing."
+  display: "_IEEE International Symposium on Biomedical Imaging_ (**ISBI 2019**), Venice, Italy."
+  highlight: 0
+
+- title: "<a href=\"https://arxiv.org/abs/1711.08608\" target=\"_blank\"><strong>Unsupervised End-to-end Learning for Deformable Medical Image Registration</strong></a>"
+  authors: "Siyuan Shan, Wen Yan, **Xiaoqing Guo**, Eric I Chang, Yubo Fan, Yan Xu."
+  highlight: 0

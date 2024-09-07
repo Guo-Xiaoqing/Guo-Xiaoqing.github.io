@@ -1,0 +1,39 @@
+- title: "<a href=\"https://link.springer.com/article/10.1007/s11263-024-02158-9#Abs1\" target=\"_blank\"><strong>Infproto-powered Adaptive Classifier and Agnostic Feature Learning for Single Domain Generalization in Medical Images</strong></a>"
+  authors: "**Xiaoqing Guo**, Jie Liu, Yixuan Yuan."
+  display: "_International Journal of Computer Vision_ (**IJCV**), 2024."
+  highlight: 0
+
+- title: "<a href=\"https://ieeexplore.ieee.org/document/10379649\" target=\"_blank\"><strong>Disentangle Then Calibrate with Gradient Guidance: A Unified Framework for Common and Rare Disease Diagnosis</strong></a>"
+  authors: "Yuanyuan Chen, **Xiaoqing Guo**, Yong Xia, Yixuan Yuan."
+  display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2024."
+  highlight: 0
+
+- title: "<a href=\"https://www.nature.com/articles/s41586-024-07078-9\" target=\"_blank\"><strong>Integrated Lithium Niobate Microwave Photonic Processing Engine</strong></a> [<a href=\"https://www.cityu.edu.hk/media/news/2024/02/29/cityuhk-develops-world-leading-microwave-photonics-chip-ultrahigh-speed-signal-processing\" target=\"_blank\">CityU News</a>]"
+  authors: "Hanke Feng<sup>*</sup>, Tong Ge<sup>*</sup>, **Xiaoqing Guo**, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang."
+  display: "**Nature**, 2024."
+  highlight: 0
+
+- title: "<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0957417424009643?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=215584584&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM469036&utm_medium=email&utm_source=AC_\" target=\"_blank\"><strong>Dynamic Attribute-guided Few-shot Open-set Network for Medical Image Diagnosis</strong></a>"
+  authors: "Yiwen Luo, **Xiaoqing Guo**, Li Liu, Yixuan Yuan."
+  display: "_Expert Systems With Applications_, 2024."
+  highlight: 0
+
+- title: "<a href=\"https://arxiv.org/abs/2408.03761\" target=\"_blank\"><strong>MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</strong></a>"
+  authors: "**Xiaoqing Guo**, Qianhui Men, Alison Noble."
+  display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
+  highlight: 0
+
+- title: "<a href=\"https://arxiv.org/abs/2408.09931\" target=\"_blank\"><strong>Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</strong></a>"
+  authors: "Qianhui Men, **Xiaoqing Guo**, Aris Papageorghiou, Alison Noble."
+  display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
+  highlight: 0
+
+- title: "<a href=\"https://arxiv.org/abs/2406.02422\" target=\"_blank\"><strong>IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</strong></a> [<a href=\"https://github.com/ZiyunLiang/IterMask2\" target=\"_blank\">code</a>] <strong>(Early Accept, Oral)</strong>"
+  authors: "Ziyun Liang, **Xiaoqing Guo**, Alison Noble, Konstantinos Kamnitsas."
+  display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
+  highlight: 0
+
+- title: "<a href=\"https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Diversified_and_Personalized_Multi-rater_Medical_Image_Segmentation_CVPR_2024_paper.html\" target=\"_blank\"><strong>Diversified and Personalized Multi-rater Medical Image Segmentation</strong></a> [<a href=\"https://github.com/ycwu1997/D-Persona\" target=\"_blank\">code</a>] <strong>(Highlight)</strong>"
+  authors: "Yicheng Wu, Xiangde Luo, Zhe Xu, **Xiaoqing Guo**, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai."
+  display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR 2024**), Seattle, USA."
+  highlight: 0
