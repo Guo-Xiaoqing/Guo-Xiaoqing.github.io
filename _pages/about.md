@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) I will attend MICCAI 2024 in the coming week. Welcome to Chat with me!  
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) I will join the Department of Computer Science at Hong Kong Baptist University as an assistant professor in Dec. 2024. Therefore, I am looking for self-motivated Ph.D. students interested in AI for healthcare to join my group.
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) I will join the <a href="https://www.comp.hkbu.edu.hk/v1/?page=home" target="_blank">Department of Computer Science of Hong Kong Baptist University</a> as an assistant professor in Dec. 2024. Therefore, I am looking for self-motivated Ph.D. students interested in AI for healthcare to join my group.
 
 <!-- Welcome to drop me an email with your CV and transcripts. -->
-
 
 ## Biography
 Xiaoqing Guo is a postdoctoral researcher in the Department of Engineering Science at the University of Oxford, working on the projects <a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI</a> and Turing AI WLR Fellowship. She obtained her Ph.D. degree in the Department of Electrical Engineering at City University of Hong Kong in 2022 and received her B.Eng. degree from Beihang University in 2018. She was a research assistant in the Department of Electrical Engineering at Tsinghua University during 2017-2018. Her research interest is in the interdisciplinary field of AI and healthcare, aiming to create innovative intelligent systems that can support high-quality human-machine interaction/collaboration and trustworthy clinical decision-making. In AI and medical imaging fields, she has published over 30 top journal and conference papers, including TPAMI, CVPR, ICCV, ECCV, TMI, MedIA, MICCAI, and Nature. She has been selected as one of *World’s Top 80 Chinese Young Female Scholars in AI*, the *Rising Star of Women in Engineering* by Asian Deans' Forum 2024, and she has received prestigious awards, such as CVPR Outstanding Reviewer Award, MSRA Fellowship Nomination Award, Outstanding Doctoral Research Award, Outstanding Research Thesis Award, and three year consecutive Outstanding Academic Performance Award. 
