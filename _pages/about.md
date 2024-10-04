@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) I will attend MICCAI 2024 in the coming week. Welcome to Chat with me!
-
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) I will attend MICCAI 2024 in the coming week. Welcome to Chat with me!  
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) I will join the Department of Computer Science at Hong Kong Baptist University as an assistant professor in Dec. 2024. Therefore, I am looking for self-motivated Ph.D. students interested in AI for healthcare to join my group.
 
 <!-- Welcome to drop me an email with your CV and transcripts. -->
