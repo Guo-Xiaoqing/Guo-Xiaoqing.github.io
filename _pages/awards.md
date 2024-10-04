@@ -18,4 +18,4 @@ author_profile: true
 * Outstanding Academic Performance Award (OAPA), City University of Hong Kong, 2019 
 * Research Tuition Scholarship (RTS), City University of Hong Kong, 2019 - 2020 
 * Honorable Mention, Mathematical Contest in Modeling (MCM), 2016
-* Grand Prize, <a href="http://buaa.ihwrm.com/index/article/articleinfo.html?doc_id=1248477" target="_blank">the 25th “Feng Ru Cup” Competition of Innovation</a> (*top 9/1707*), Beihang University, 2015
+* Grand Prize, the 25th “Feng Ru Cup” Competition of Innovation (*top 9/1707*), Beihang University, 2015
