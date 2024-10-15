@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) I will join the <a href="https://www.comp.hkbu.edu.hk/v1/?page=home" target="_blank">Department of Computer Science of Hong Kong Baptist University</a> as an assistant professor in Dec. 2024. Therefore, I am looking for self-motivated Ph.D. students interested in AI for healthcare to join my group.
+<!-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) I will join the <a href="https://www.comp.hkbu.edu.hk/v1/?page=home" target="_blank">Department of Computer Science of Hong Kong Baptist University</a> as an assistant professor in Dec. 2024. Therefore, I am looking for self-motivated Ph.D. students interested in AI for healthcare to join my group. -->
 
 <!-- Welcome to drop me an email with your CV and transcripts. -->
 
