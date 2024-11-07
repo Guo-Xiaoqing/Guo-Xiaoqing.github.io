@@ -16,7 +16,7 @@ redirect_from:
 
 ## PhD Students
 {% assign number_printed = 0 %}
-{% for member in site.data.team_students %}
+{% for member in site.data.team_stu %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
