@@ -20,7 +20,7 @@ author_profile: true
     {% endif %}
 
     <div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px; border-radius: 5px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left; margin-right: 15px; border-radius: 5px;" />
       <h4 style="font-size: 1.2em; font-weight: bold; margin-top: 0;">{{ member.name }}</h4>
       <i style="display: block; font-size: 0.95em; margin-bottom: 10px;">{{ member.info }}</i>
       <ul style="overflow: hidden; margin: 0; padding-left: 1em; list-style-type: disc;"> 
