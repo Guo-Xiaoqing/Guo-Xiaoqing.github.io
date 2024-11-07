@@ -1,0 +1,15 @@
+- name: <a href="https://scholar.google.com.hk/citations?user=fCzlLE4AAAAJ&hl=zh-CN" target="_blank">Weihao Yu</a>
+  photo: WeihaoYu.jpg
+  info: PhD Student at CUHK (_co-advise with Prof. Yixuan Yuan_), since Jan 2024
+  # email: xxx@eng.ox.ac.uk
+  number_educ: 2
+  education1: M.S. Shanghai Jiao Tong University
+  education2: B.S. Shanghai Jiao Tong University
+
+- name: <a href="https://dblp.org/pid/358/1060.html" target="_blank">Boyun Zheng</a>
+  photo:  BoyunZheng.jpg
+  info: PhD Student at CUHK (_co-advise with Prof. Yixuan Yuan_), since Aug 2024
+  # email: xxx@eng.ox.ac.uk
+  number_educ: 2
+  education1: M.S. University of Chinese Academy of Sciences
+  education2: B.S. Huazhong University of Science and Technology
