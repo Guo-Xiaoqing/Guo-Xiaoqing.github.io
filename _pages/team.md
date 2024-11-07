@@ -5,8 +5,6 @@ permalink: /team/
 author_profile: true
 ---
 
-# Group Members
-
 **We are looking for new PhD students, research assistants, and visitors to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## PhD Students
