@@ -1,13 +1,9 @@
 ---
-permalink: /
+#layout: archive
 title: "Team"
-excerpt: "Team"
+permalink: /team/
 author_profile: true
-redirect_from: 
-  - /team/
-  - /team.html
 ---
-
 
 # Group Members
 
