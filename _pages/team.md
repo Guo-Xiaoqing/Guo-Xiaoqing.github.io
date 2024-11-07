@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-**We are looking for new PhD students, research assistants, and visitors to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) [https://mp.weixin.qq.com/s/hHWFVfvSmcNFap1Oq097iQ] and <a href="https://mp.weixin.qq.com/s/hHWFVfvSmcNFap1Oq097iQ" target="_blank">more info.</a>**!**
+**We are looking for new PhD students, research assistants, and visitors to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) and <a href="https://mp.weixin.qq.com/s/hHWFVfvSmcNFap1Oq097iQ" target="_blank">more info.</a>**!**
 
 ## PhD Students
 
