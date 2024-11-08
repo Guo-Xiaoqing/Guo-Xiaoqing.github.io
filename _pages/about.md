@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) I will join the <a href="https://www.comp.hkbu.edu.hk/v1/?page=home" target="_blank">Department of Computer Science at Hong Kong Baptist University</a> (HKBU) as an assistant professor in Dec. 2024. Additionally, I will be affiliated with the University of Oxford as a visiting researcher.
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) I will join the <a href="https://www.comp.hkbu.edu.hk/v1/?page=home" target="_blank">Department of Computer Science at Hong Kong Baptist University</a> (HKBU) as an assistant professor in Dec. 2024. Additionally, I will be affiliated with the <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/" target="_blank">Noble Group</a> at University of Oxford as a visiting researcher.
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Therefore, I am looking for self-motivated Ph.D. students interested in AI for healthcare to join my group. For more information, please see <a href="https://guo-xiaoqing.github.io/vacancies" target="_blank">openings</a> and <a href="https://mp.weixin.qq.com/s/hHWFVfvSmcNFap1Oq097iQ" target="_blank">HKBU info.</a>.
 
