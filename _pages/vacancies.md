@@ -16,7 +16,7 @@ We are seeking talented and motivated PhD students with a keen interest in AI fo
 * Passion for AI in Healthcare: Highly motivated and enthusiastic about applying AI in medical imaging and healthcare.
 * Academic Contributions: Preferably have first-authored publications in top-tier journals and conferences related to the field.
 * Problem-Solving and Learning Agility: Strong analytical skills and the ability to quickly learn and adapt to new challenges.
-* Technical Proficiency: Skilled in programming languages (Python, C++, etc.).
+* Technical Proficiency: Skilled in programming languages (Pytorch, Python, C++, etc.).
 * Teamwork and Communication: Ability to collaborate effectively in a multidisciplinary environment.
 
 ## Application
