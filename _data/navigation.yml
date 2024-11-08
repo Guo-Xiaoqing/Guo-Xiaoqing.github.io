@@ -17,6 +17,10 @@ main:
         
   - title: "Activities"
     url: /activities/
+
+  - title: "Vacancies"
+    url: /vacancies/
+
     
   # - title: "CV"
   #   url: /cv/
