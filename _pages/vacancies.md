@@ -1,3 +1,10 @@
+---
+#layout: archive
+title: "Vacancies"
+permalink: /vacancies/
+author_profile: true
+---
+
 Welcome to our dynamic research group, where we are pioneering advancements in ultrasound imaging through the integration with diverse data modalities—including video, images, audio, text reports, probe motion, and other valuable inputs. Our mission is to transform traditional ultrasound imaging by enhancing it with cutting-edge computer vision techniques and multimodal data streams, ultimately creating a richer, more comprehensive diagnostic experience. By developing advanced tools and algorithms, we aim to improve diagnostic accuracy, streamline workflows, and support sonographers with real-time insights. We welcome passionate and self-motivated individuals to join us in this exciting journey!
 
 ## PhD Student Requirement
