@@ -11,22 +11,22 @@ Welcome to our dynamic research group, where we are pioneering advancements in u
 
 We are seeking talented and motivated PhD students with a keen interest in AI for healthcare. 
 
-* Passion for AI in Healthcare: Highly motivated and enthusiastic about applying AI in medical imaging and healthcare.
 * Relevant Research Experience: Previous work in computer vision, medical image analysis, or AI for ultrasound imaging is a plus.
 * Motivation for Real-world Impact: Passionate about applying AI to solve real healthcare challenges.
+* Passion for AI in Healthcare: Highly motivated and enthusiastic about applying AI in medical imaging and healthcare.
 * Academic Contributions: Preferably have first-authored publications in top-tier journals and conferences related to the field.
 * Problem-Solving and Learning Agility: Strong analytical skills and the ability to quickly learn and adapt to new challenges.
-* Technical Proficiency: Skilled in programming languages (Python, C++, etc.), and fluent in both written and spoken English.
+* Technical Proficiency: Skilled in programming languages (Python, C++, etc.).
 * Teamwork and Communication: Ability to collaborate effectively in a multidisciplinary environment.
 
 ## Application
 
 If you are interested in joining us as a PhD student, please send me the following materials:
 
-* CV
-* 1-page Research Statement: Outline your research interests, goals, and relevant experience.
+* Curriculum Vitae (CV)
 * Undergraduate Transcripts
-* Supporting Materials: Any additional documents that highlight your qualifications.
+* 1-Page Research Statement: Summarize your research interests, relevant experience, and future research goals. Explain how your skills and experience align with the selection criteria for this position, using specific examples where possible.
+* Supporting Materials: Include any additional documents (such as 1-3 representative publications, academic or research awards, or proof of English proficiency) that further demonstrate your qualifications and research potential.
 
 Please send your application to xiaoqingguo at hkbu dot edu dot hk.
 
