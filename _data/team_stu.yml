@@ -1,15 +1,15 @@
-- name: <a href="https://scholar.google.com.hk/citations?user=fCzlLE4AAAAJ&hl=zh-CN" target="_blank">Weihao Yu</a>
-  photo: WeihaoYu.jpg
-  info: PhD Student at CUHK (co-advise with Prof. Yixuan Yuan), since Jan 2024
+- name: <a href="" target="_blank">XX X</a>
+  photo: XXX.jpg
+  info: PhD Student, since Jan 2024
   # email: xxx@eng.ox.ac.uk
   number_educ: 2
-  education1: M.S. Shanghai Jiao Tong University
-  education2: B.S. Shanghai Jiao Tong University
+  education1: M.S. University
+  education2: B.S. University
 
-- name: <a href="https://scholar.google.com/citations?user=ZveKOXkAAAAJ&hl=zh-CN" target="_blank">Boyun Zheng</a>
-  photo:  BoyunZheng.jpg
-  info: PhD Student at CUHK (co-advise with Prof. Yixuan Yuan), since Aug 2024
+- name: <a href="" target="_blank">XX X</a>
+  photo:  XXX.jpg
+  info: PhD Student, since Jan 2024
   # email: xxx@eng.ox.ac.uk
   number_educ: 2
-  education1: M.S. University of Chinese Academy of Sciences
-  education2: B.S. Huazhong University of Science and Technology
+  education1: M.S. University
+  education2: B.S. University
