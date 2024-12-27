@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 * <a href="https://risingstarsasia.org/participants.php#cat7" target="_blank">The Rising Star of Women in Engineering</a> - Asian Deans’ Forum 2024
+* <a IEEE Transactions on Medical Imaging Distinguished Reviewer (Silver Level)> \hfill 2024
 * <a href="https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers" target="_blank">CVPR Outstanding Reviewer Award</a> (*232 out of more than 7000 reviewers*), 2023
 * <a href="https://xueshu.baidu.com/usercenter/index/aischolar2023" target="_blank">Global Top 80 Chinese Young Female Scholars in Artificial Intelligence</a>, 2023
 * Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award (*only 5 awardees in the history of CityU before 2022*), City University of Hong Kong, 2022 
