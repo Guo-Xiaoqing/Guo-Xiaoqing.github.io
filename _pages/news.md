@@ -4,6 +4,7 @@ title: "News"
 author_profile: true
 ---
 
+* [Jan 2025] I am invited to be the Area Chair for MICCAI 2025!
 * [Oct 2024] I was invited as a Guest Editor of the Special Issue <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a> for Sensors (IF: 3.4). Welcome to submit a paper.
 * [Sep 2024] Our MICCAI 2024 paper **IterMask^2** is selected as Oral! <br>
 * [Jul 2024] I’ve been nominated as the **Rising Stars in Women Engineering** at the Asian Deans’ Forum 2024 Rising Stars Women in Engineering Workshop that will be hosted at the National University of Singapore, Singapore.
