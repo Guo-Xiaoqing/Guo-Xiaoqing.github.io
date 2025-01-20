@@ -8,7 +8,7 @@ author_profile: true
 ## *Journal Editor*
   * Guest Editor, Sensors, Special Issue on <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a>
 
-## *Journal Reviews*
+## *Journal Reviewer*
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * Medical Image Analysis (MedIA)
   * International Journal of Computer Vision (IJCV)
@@ -22,7 +22,7 @@ author_profile: true
 ## *Area Chair*
   * MICCAI 2025
 
-## *Conference Reviews*
+## *Conference Reviewer*
   * ICLR 2025
   * CVPR 2024, MICCAI 2024, ICML 2024, NeurIPS 2024
   * CVPR 2023 (Outstanding Reviewer Award), MICCAI 2023, ICCV 2023, ICML 2023, NeurIPS 2023
@@ -30,12 +30,12 @@ author_profile: true
   * ISBI 2021, MICCAI 2021
   * MICCAI 2019 
 
-## *Invited Talks*
+## *Invited Talk*
  *"Have AI Models Truly Simplified Healthcare? Beyond Model-centric AI, Data- and Human-centric AI for Simplified Healthcare"*
  * [Jun 2024], Hong Kong Baptist University (HKBU), Hong Kong <a href="https://www.comp.hkbu.edu.hk/v1/file/news/seminar_20240612.pdf" target="_blank">[Poster]</a>
  * [Apr 2024], The University of Hong Kong (HKU), Hong Kong <a href="https://www.eee.hku.hk/events/20240423-2/" target="_blank">[Poster]</a>
 
-## *Conference Presentations*
+## *Conference Presentation*
   * MICCAI 2022, Singapore <a href="MICCAI2022ppt.pdf" target="_blank">[PPT]</a> <a href="MICCAI2022Poster.pdf" target="_blank">[Poster]</a>
   * CVPR 2022, New Orleans, Louisiana, USA <a href="CVPR2022ppt.pdf" target="_blank">[PPT]</a> <a href="https://zhuanlan.zhihu.com/p/475830652" target="_blank">[知乎]</a>
   * CVPR 2021, Virtual <a href="CVPR2021ppt.pdf" target="_blank">[PPT]</a> <a href="https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw" target="_blank">[MICS中文推送]</a>
