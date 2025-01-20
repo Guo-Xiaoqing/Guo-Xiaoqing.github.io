@@ -19,7 +19,12 @@ author_profile: true
   * Scientific Reports
   * Medical Physics
 
+## *Area Chair*
+  * MICCAI 2025
+
 ## *Conference Reviews*
+  * ICLR 2025
+  * CVPR 2024, MICCAI 2024, ICML 2024, NeurIPS 2024
   * CVPR 2023 (Outstanding Reviewer Award), MICCAI 2023, ICCV 2023, ICML 2023, NeurIPS 2023
   * CVPR 2022, MICCAI 2022, ECCV 2022
   * ISBI 2021, MICCAI 2021
