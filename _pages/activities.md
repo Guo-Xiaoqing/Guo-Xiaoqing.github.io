@@ -50,6 +50,7 @@ author_profile: true
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
 
 ## *Teaching*
+  * COMP3066 Health and Assistive Technology: Practicum, Instructor
   * EE4211 Computer Vision, TA	
   * EE4146 Data Engineering and Learning System, TA	
   * EE3919 Medical Imaging and Signal Processing,	TA	
