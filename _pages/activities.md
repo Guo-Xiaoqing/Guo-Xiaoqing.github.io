@@ -31,7 +31,7 @@ author_profile: true
   * MICCAI 2019 
 
 ## *Invited Talk*
-*"Learning to Simplify Sonography during and after the Ultrasound Examination"
+*"Learning to Simplify Sonography during and after the Ultrasound Examination"*
  * [Mar 2025], Hong Kong Baptist University (HKBU), Hong Kong <a href="https://www.comp.hkbu.edu.hk/hkbu-nvidia-sym2025/?d=2" target="_blank">[Poster]</a>
 
  *"Have AI Models Truly Simplified Healthcare? Beyond Model-centric AI, Data- and Human-centric AI for Simplified Healthcare"*
