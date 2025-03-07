@@ -8,6 +8,9 @@ author_profile: true
 ## *Journal Editor*
   * Guest Editor, Sensors, Special Issue on <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a>
 
+## *Area Chair*
+  * MICCAI 2025
+    
 ## *Journal Reviewer*
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * Medical Image Analysis (MedIA)
@@ -18,9 +21,6 @@ author_profile: true
   * Pattern Recognition
   * Scientific Reports
   * Medical Physics
-
-## *Area Chair*
-  * MICCAI 2025
 
 ## *Conference Reviewer*
   * ICLR 2025
