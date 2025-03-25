@@ -28,7 +28,7 @@ Xiaoqing Guo is an assistant professor in the <a href="https://www.comp.hkbu.edu
 * Recently, I am dedicated to (1) multimodal learning with 2D/3D image, video, audio, clinical text report, probe motion modalities, (2) human-machine interaction/collaboration for shared human-machine decision-making in healthcare. 
 * Previously, I focused on developing <a href="https://guo-xiaoqing.github.io/research/" target="_blank">annotation-efficient deep learning</a> solutions, such as data augmentation, semi-supervised learning, domain adaptation, out-of-distribution generalization, and learning with noisy labels, to achieve trustworthy and effective intelligent systems. 
 
-![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/Word_Art.png)
+<!-- ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/Word_Art.png)--> 
 
 ### Links
 <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/" target="_blank">Oxford Noble Group</a>
