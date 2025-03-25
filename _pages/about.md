@@ -33,8 +33,8 @@ Xiaoqing Guo is an assistant professor in the <a href="https://www.comp.hkbu.edu
 ### Links
 <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/" target="_blank">Oxford Noble Group</a>
 
-<a href="https://www.ee.cuhk.edu.hk/~yxyuan/" target="_blank">CUHK AIM Group</a>
-
 <a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI Project</a>
 
 <a href="https://eng.ox.ac.uk/biomedical-image-analysis/" target="_blank">Oxford BioMedIA</a>
+
+<a href="https://www.ee.cuhk.edu.hk/~yxyuan/" target="_blank">CUHK AIM Group</a>
