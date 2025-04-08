@@ -31,8 +31,12 @@ author_profile: true
   * MICCAI 2019 
 
 ## *Invited Talk*
+*"AI-Simplified Sonography: Advancing Maternal and Fetal Health"*
+ * [Apr 2025], Research Mingle of 'Healthy Beginnings, Hopeful Futures', Hong Kong Baptist University (HKBU), Hong Kong 
+
 *"Learning to Simplify Sonography during and after the Ultrasound Examination"*
- * [Mar 2025], Hong Kong Baptist University (HKBU), Hong Kong 
+ * [Mar 2025], HKBU-NVIDIA Joint Symposium, Hong Kong Baptist University (HKBU), Hong Kong
+ * [Dec 2024], The Rising Star of Women in Engineering Workshop, National University of Singapore, Singapore
 
  *"Have AI Models Truly Simplified Healthcare? Beyond Model-centric AI, Data- and Human-centric AI for Simplified Healthcare"*
  * [Jun 2024], Hong Kong Baptist University (HKBU), Hong Kong <a href="https://www.comp.hkbu.edu.hk/v1/file/news/seminar_20240612.pdf" target="_blank">[Poster]</a>
