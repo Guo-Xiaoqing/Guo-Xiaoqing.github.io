@@ -7,12 +7,19 @@ author_profile: true
 
 <!-- title: "Selected Publications [(Google Scholar)](https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en)" --> 
 
-<!-- ## 2025
-### Conference Papers
-> <b><a href="" target="_blank">GeoT: Geometry-guided Instance-dependent  Transition Matrix for Semi-supervised  Tooth Point Cloud Segmentation has been accepted for presentation at the conference.</a></b> <br>
-> Weihao Yu, <b>Xiaoqing Guo</b>, Chenxin Li, Yifan Liu, Yixuan Yuan. <br>
-> <em>Information Processing in Medical Imaging</em> (<i><b>IPMI 2024</b></i>), Kos Island, Greece. <be>
+<!-- 
+xxxx
 --> 
+
+## 2025
+### Conference Papers
+> <b><a href="" target="_blank">GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</a></b> <br>
+> Weihao Yu, <b>Xiaoqing Guo</b>, Chenxin Li, Yifan Liu, Yixuan Yuan. <br>
+> <em>Information Processing in Medical Imaging</em> (<i><b>IPMI 2025</b></i>), Kos Island, Greece. <be>
+
+> <b><a href="" target="_blank">Decoupled Representation Learning for Difference Medical Report Generation</a></b> <br> 
+> Chen Yang, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
+> <em>International Conference of the IEEE Engineering in Medicine and Biology Society</em> (<i><b>EMBC 2025</b></i>), Copenhagen, Denmark. <be>
 
 ## 2024
 ### Journal Papers
