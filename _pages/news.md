@@ -4,6 +4,7 @@ title: "News"
 author_profile: true
 ---
 
+* [Apr 2025] One paper accepted by EMBC 2025. Congrats to Chen! <br>
 * [Feb 2025] One paper accepted by IPMI 2025. Congrats to Weihao! <br>
 * [Jan 2025] I am invited to be the Area Chair for MICCAI 2025!
 * [Oct 2024] I was invited as a Guest Editor of the Special Issue <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a> for Sensors (IF: 3.4). Welcome to submit a paper.
