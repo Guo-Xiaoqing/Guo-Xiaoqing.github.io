@@ -13,7 +13,7 @@ xxxx
 
 ## 2025
 ### Conference Papers
-> <b><a href="" target="_blank">GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2503.16976" target="_blank">GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</a></b> <br>
 > Weihao Yu, <b>Xiaoqing Guo</b>, Chenxin Li, Yifan Liu, Yixuan Yuan. <br>
 > <em>Information Processing in Medical Imaging</em> (<i><b>IPMI 2025</b></i>), Kos Island, Greece. <be>
 
