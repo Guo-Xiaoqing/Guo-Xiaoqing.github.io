@@ -83,7 +83,7 @@ author:
   name             : "Dr. Xiaoqing Guo"
   avatar           : "IMG_5408.JPG"
   bio              : "Assistant Professor" 
-  location         : "United Kingdom"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Guo-Xiaoqing"
+  github           : #"Guo-Xiaoqing"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : #"https://orcid.org/0000-0002-9476-521X"
+  LinkedIn         : "https://www.linkedin.com/in/xiaoqing-guo-b6527a178/"
+  orcid            : "https://orcid.org/0000-0002-9476-521X"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
