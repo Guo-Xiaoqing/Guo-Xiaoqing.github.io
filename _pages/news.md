@@ -4,6 +4,9 @@ title: "News"
 author_profile: true
 ---
 
+I am looking for self-motivated Ph.D. students interested in AI for healthcare to join my group. For more information, please see <a href="https://guo-xiaoqing.github.io/vacancies" target="_blank">openings</a> and <a href="https://mp.weixin.qq.com/s/hHWFVfvSmcNFap1Oq097iQ" target="_blank">HKBU info.</a>
+
+
 * [Apr 2025] **-Call for Papers-** We will host two workshops in MICCAI 2025: (1) <a href="https://haic-miccai.github.io/#/" target="_blank">Human-AI Collaboration (HAIC)</a>. (2) <a href="https://clinicalmllms.github.io/" target="_blank">Multimodal Large Language Models (MLLMs) in Clinical Practice</a>. 
 * [Apr 2025] One paper accepted by EMBC 2025. Congrats to Chen! <br>
 * [Feb 2025] One paper accepted by IPMI 2025. Congrats to Weihao! <br>
