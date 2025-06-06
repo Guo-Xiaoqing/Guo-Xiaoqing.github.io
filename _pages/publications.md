@@ -12,6 +12,11 @@ xxxx
 --> 
 
 ## 2025
+### Journal Papers
+> <b>Sonomate: Visually grounded language model for fetal ultrasound understanding and human interaction</b> <br>
+> <b>Xiaoqing Guo</b>, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, J. Alison Noble. <br>
+> <em>Nature Biomedical Engineering</em> (<i><b>NBME</b></i>), 2025 <be>
+
 ### Conference Papers
 > <b><a href="https://arxiv.org/abs/2503.16976" target="_blank">GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</a></b> <br>
 > Weihao Yu, <b>Xiaoqing Guo</b>, Chenxin Li, Yifan Liu, Yixuan Yuan. <br>
