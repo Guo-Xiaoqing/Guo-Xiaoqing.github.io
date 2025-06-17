@@ -11,6 +11,9 @@ author_profile: true
 xxxx
 --> 
 
+* indicates equal contribution. † indicates corresponding author.
+
+
 ## 2025
 ### Journal Papers
 > <b>Sonomate: Visually grounded language model for fetal ultrasound understanding and human interaction</b> <br>
