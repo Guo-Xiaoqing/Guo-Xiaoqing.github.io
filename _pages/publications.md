@@ -14,7 +14,7 @@ xxxx
 ## 2025
 ### Journal Papers
 > <b>Sonomate: Visually grounded language model for fetal ultrasound understanding and human interaction</b> <br>
-> <b>Xiaoqing Guo</b>, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble. <br>
+> <b>Xiaoqing Guo†</b>, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble. <br>
 > <em>Nature Biomedical Engineering</em> (<i><b>NBME</b></i>), 2025 <be>
 
 ### Conference Papers
@@ -46,7 +46,7 @@ xxxx
 
 ### Conference Papers	
 > <b><a href="https://arxiv.org/abs/2408.03761" target="_blank">MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</a></b> <br>
-> <b>Xiaoqing Guo</b>, Qianhui Men, Alison Noble. <br>
+> <b>Xiaoqing Guo†</b>, Qianhui Men, Alison Noble. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <be>
 
 > <b><a href="https://arxiv.org/abs/2408.09931" target="_blank">Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation
