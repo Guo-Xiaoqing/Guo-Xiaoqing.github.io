@@ -11,7 +11,7 @@ author_profile: true
 xxxx
 --> 
 
-* indicates equal contribution. † indicates corresponding author.
+\* indicates equal contribution. † indicates corresponding author.
 
 
 ## 2025
