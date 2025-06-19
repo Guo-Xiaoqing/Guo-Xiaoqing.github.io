@@ -18,6 +18,7 @@ author_profile: true
   * MICCAI 2025
     
 ## *Journal Reviewer*
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * Medical Image Analysis (MedIA)
   * International Journal of Computer Vision (IJCV)
