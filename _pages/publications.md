@@ -22,7 +22,7 @@ xxxx
 > Weihao Yu, <b>Xiaoqing Guo</b>, Chenxin Li, Yifan Liu, Yixuan Yuan. <br>
 > <em>Information Processing in Medical Imaging</em> (<i><b>IPMI 2025</b></i>), Kos Island, Greece. <be>
 
-> <b><a href="" target="_blank">Decoupled Representation Learning for Difference Medical Report Generation</a></b> <br> 
+> <b>Decoupled Representation Learning for Difference Medical Report Generation</a></b> <br> 
 > Chen Yang, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference of the IEEE Engineering in Medicine and Biology Society</em> (<i><b>EMBC 2025</b></i>), Copenhagen, Denmark. <be>
 
