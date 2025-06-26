@@ -18,7 +18,7 @@ xxxx
 > <em>Nature Biomedical Engineering</em> (<i><b>NBME</b></i>), 2025 <be>
 
 ### Conference Papers
-> <b>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</a></b> <br> 
+> <b>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</b> <br> 
 > Weihao Yu, <b>Xiaoqing Guo</b>, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan. <br>
 > <em>International Conference on Computer Vision</em> (<i><b>ICCV 2025</b></i>), Honolulu, Hawai'i. <be>
 
@@ -26,7 +26,7 @@ xxxx
 > Weihao Yu, <b>Xiaoqing Guo</b>, Chenxin Li, Yifan Liu, Yixuan Yuan. <br>
 > <em>Information Processing in Medical Imaging</em> (<i><b>IPMI 2025</b></i>), Kos Island, Greece. <be>
 
-> <b>Decoupled Representation Learning for Difference Medical Report Generation</a></b> <br> 
+> <b>Decoupled Representation Learning for Difference Medical Report Generation</b> <br> 
 > Chen Yang, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>International Conference of the IEEE Engineering in Medicine and Biology Society</em> (<i><b>EMBC 2025</b></i>), Copenhagen, Denmark. <be>
 
