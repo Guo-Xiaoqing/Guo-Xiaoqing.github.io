@@ -18,6 +18,10 @@ xxxx
 > <em>Nature Biomedical Engineering</em> (<i><b>NBME</b></i>), 2025 <be>
 
 ### Conference Papers
+> <b>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</a></b> <br> 
+> Weihao Yu, <b>Xiaoqing Guo</b>, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan. <br>
+> <em>International Conference on Computer Vision</em> (<i><b>ICCV 2025</b></i>), Honolulu, Hawai'i. <be>
+
 > <b><a href="https://arxiv.org/abs/2503.16976" target="_blank">GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</a></b> <br>
 > Weihao Yu, <b>Xiaoqing Guo</b>, Chenxin Li, Yifan Liu, Yixuan Yuan. <br>
 > <em>Information Processing in Medical Imaging</em> (<i><b>IPMI 2025</b></i>), Kos Island, Greece. <be>
