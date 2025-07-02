@@ -35,6 +35,9 @@ Xiaoqing Guo is an assistant professor in the <a href="https://www.comp.hkbu.edu
 <!-- ![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/Word_Art.png)--> 
 
 ### Links
+
+<a href="https://ultravisionlab.github.io/" target="_blank">UltraVision+ Lab</a>
+
 <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/" target="_blank">Oxford Noble Group</a>
 
 <a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI Project</a>
