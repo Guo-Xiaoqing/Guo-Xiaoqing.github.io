@@ -46,6 +46,7 @@ author_profile: true
  * [Dec 2024], The Rising Star of Women in Engineering Workshop, National University of Singapore, Singapore
 
  *"Have AI Models Truly Simplified Healthcare? Beyond Model-centric AI, Data- and Human-centric AI for Simplified Healthcare"*
+ * [May 2025], Zhejiang University (ZJU), China
  * [Jun 2024], Hong Kong Baptist University (HKBU), Hong Kong <a href="https://www.comp.hkbu.edu.hk/v1/file/news/seminar_20240612.pdf" target="_blank">[Poster]</a>
  * [Apr 2024], The University of Hong Kong (HKU), Hong Kong <a href="https://www.eee.hku.hk/events/20240423-2/" target="_blank">[Poster]</a>
 
