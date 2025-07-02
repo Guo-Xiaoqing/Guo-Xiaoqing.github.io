@@ -11,6 +11,8 @@ author_profile: true
 xxxx
 --> 
 
+Please refer to my <a href="https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en" target="_blank">Google Scholar</a>
+
 ## 2025
 ### Journal Papers
 > <b>Sonomate: Visually grounded language model for fetal ultrasound understanding and human interaction</b> <br>
