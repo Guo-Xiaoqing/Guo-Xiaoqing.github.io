@@ -18,8 +18,8 @@ main:
   - title: "Activities"
     url: /activities/
 
-  - title: "Vacancies"
-    url: /vacancies/
+  # - title: "Vacancies"
+  #   url: /vacancies/
 
     
   # - title: "CV"
