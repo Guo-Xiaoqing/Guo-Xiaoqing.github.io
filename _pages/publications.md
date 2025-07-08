@@ -19,6 +19,10 @@ Please refer to my <a href="https://scholar.google.com.hk/citations?user=fo3rmtw
 > <b>Xiaoqing Guo†</b>, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble. († indicates corresponding author) <br>
 > <em>Nature Biomedical Engineering</em> (<i><b>NBME</b></i>), 2025 <be>
 
+> <b>ToothMaker: Realistic Panoramic Dental Radiograph Generation via Disentangled Control</b> <br>
+> Weihao Yu, <b>Xiaoqing Guo</b>, Wuyang Li, Xinyu Liu, Hui Chen, Yixuan Yuan. <br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2025 <be>
+
 ### Conference Papers
 > <b>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</b> <br> 
 > Weihao Yu, <b>Xiaoqing Guo</b>, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan. <br>
