@@ -43,7 +43,7 @@ author_profile: true
  * [Apr 2025], Research Mingle of 'Healthy Beginnings, Hopeful Futures', Hong Kong Baptist University (HKBU), Hong Kong 
 
 *"Learning to Simplify Sonography during and after the Ultrasound Examination"*
- * [May 2025], Tongji University (ZJU), Shanghai, China
+ * [May 2025], Tongji University, Shanghai, China
  * [Mar 2025], HKBU-NVIDIA Joint Symposium, Hong Kong Baptist University (HKBU), Hong Kong
  * [Dec 2024], The Rising Star of Women in Engineering Workshop, National University of Singapore, Singapore
 
