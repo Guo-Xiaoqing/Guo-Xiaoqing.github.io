@@ -9,6 +9,7 @@ author_profile: true
   * Guest Editor, Sensors, Special Issue on <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a>
 
 ## *Organizer of Conference* 
+  * <a href="https://projects.croucher.org.hk/advanced-study-institutes/generative-ai-and-large-scale-foundation-models-for-biomedicine?locale=en" target="_blank">Learn about theories and methodologies of generative AI and large-scale foundation models for biomedicine.</a> @ HKBU
   * <a href="https://haic-miccai.github.io/#/" target="_blank">Human-AI Collaboration (HAIC)</a> workshop @ MICCAI 2025
   * <a href="https://clinicalmllms.github.io/" target="_blank">Multimodal Large Language Models (MLLMs) in Clinical Practice</a> workshop @ MICCAI 2025
   * Deep Generative Models workshop @ MICCAI 2021, 2022
@@ -42,11 +43,12 @@ author_profile: true
  * [Apr 2025], Research Mingle of 'Healthy Beginnings, Hopeful Futures', Hong Kong Baptist University (HKBU), Hong Kong 
 
 *"Learning to Simplify Sonography during and after the Ultrasound Examination"*
+ * [May 2025], Tongji University (ZJU), Shanghai, China
  * [Mar 2025], HKBU-NVIDIA Joint Symposium, Hong Kong Baptist University (HKBU), Hong Kong
  * [Dec 2024], The Rising Star of Women in Engineering Workshop, National University of Singapore, Singapore
 
  *"Have AI Models Truly Simplified Healthcare? Beyond Model-centric AI, Data- and Human-centric AI for Simplified Healthcare"*
- * [May 2025], Zhejiang University (ZJU), China
+ * [May 2025], Zhejiang University, Zhejiang, China
  * [Jun 2024], Hong Kong Baptist University (HKBU), Hong Kong <a href="https://www.comp.hkbu.edu.hk/v1/file/news/seminar_20240612.pdf" target="_blank">[Poster]</a>
  * [Apr 2024], The University of Hong Kong (HKU), Hong Kong <a href="https://www.eee.hku.hk/events/20240423-2/" target="_blank">[Poster]</a>
 
