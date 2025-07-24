@@ -9,8 +9,8 @@ main:
   # - title: "Team"
   #   url: /team/       
 
-  - title: "Publications"
-    url: /publications/ 
+  # - title: "Publications"
+  #   url: /publications/ 
 
   - title: "Awards"
     url: /awards/
