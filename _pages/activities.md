@@ -9,7 +9,7 @@ author_profile: true
   * Guest Editor, Sensors, Special Issue on <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a>
 
 ## *Organizer of Conference* 
-  * <a href="https://projects.croucher.org.hk/advanced-study-institutes/generative-ai-and-large-scale-foundation-models-for-biomedicine?locale=en" target="_blank">AI for biomedicine:</a> Learn about theories and methodologies of generative AI and large-scale foundation models for biomedicine @ HKBU 2025
+  * <a href="https://projects.croucher.org.hk/advanced-study-institutes/generative-ai-and-large-scale-foundation-models-for-biomedicine?locale=en" target="_blank">AI for biomedicine</a>: Learn about theories and methodologies of generative AI and large-scale foundation models for biomedicine @ HKBU 2025
   * <a href="https://haic-miccai.github.io/#/" target="_blank">Human-AI Collaboration (HAIC)</a> workshop @ MICCAI 2025
   * <a href="https://clinicalmllms.github.io/" target="_blank">Multimodal Large Language Models (MLLMs) in Clinical Practice</a> workshop @ MICCAI 2025
   * Deep Generative Models workshop @ MICCAI 2021, 2022
