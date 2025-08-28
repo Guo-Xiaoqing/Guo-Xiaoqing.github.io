@@ -16,6 +16,7 @@ author_profile: true
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
 
 ## *Area Chair*
+  * ICLR 2026
   * MICCAI 2025
     
 ## *Journal Reviewer*
