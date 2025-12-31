@@ -15,6 +15,9 @@ author_profile: true
   * Deep Generative Models workshop @ MICCAI 2021, 2022
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
 
+## *Board Member*
+  * Secretary: <a href="https://miccai.org/index.php/special-interest-groups/sig-hci/" target="_blank">MICCAI Special Interest Group (SIG)-Human Factors and Human-Computer Interaction in MICCAI (HCI)</a>
+    
 ## *Area Chair*
   * ICLR 2026
   * MICCAI 2025
