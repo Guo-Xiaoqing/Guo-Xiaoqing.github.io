@@ -4,7 +4,7 @@ title: "Awards"
 author_profile: true
 ---
 
-* MedIA-MICCAI Best Paper Award 2025
+* The MICCAI MedIA Best Paper Award 2025
 * MONAMI 2025 Best Paper Award 2025
 * <a href="https://risingstarsasia.org/participants.php#cat7" target="_blank">The Rising Star of Women in Engineering</a> - Asian Deans’ Forum 2024
 * IEEE Transactions on Medical Imaging Distinguished Reviewer (Silver Level) 2024
