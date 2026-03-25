@@ -20,7 +20,6 @@ author_profile: true
   * Secretary: <a href="https://miccai.org/index.php/special-interest-groups/sig-hci/" target="_blank">MICCAI Special Interest Group (SIG)-Human Factors and Human-Computer Interaction in MICCAI (HCI)</a>
     
 ## *Area Chair*
-  * NeurIPS 2026
   * ICLR 2026
   * MICCAI 2025
     
