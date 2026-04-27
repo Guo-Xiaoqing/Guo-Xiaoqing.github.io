@@ -46,7 +46,7 @@ author_profile: true
   * MICCAI 2019 
 
 ## *Invited Talk*
-*"The Intelligent Co-Sonographer:Guiding, Interpreting, and Empowering Ultrasound Practice"*
+*"The Intelligent Co-Sonographer: Guiding, Interpreting, and Empowering Ultrasound Practice"*
  * [Apr 2026], Summer School on AI, Robotics & XR in Medicine, Shenzhen, China
 
 *"AI-Simplified Sonography: Advancing Maternal and Fetal Health"*
