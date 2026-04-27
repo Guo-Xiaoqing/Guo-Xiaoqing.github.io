@@ -5,10 +5,14 @@ permalink: /activities/
 author_profile: true
 ---
 
-<!--   ## *Journal Editor*
+<!--   
+## *Journal Editor*
   * Guest Editor, Sensors, Special Issue on <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a>
 -->
 
+## *Board Member*
+  * Secretary: <a href="https://miccai.org/index.php/special-interest-groups/sig-hci/" target="_blank">MICCAI Special Interest Group (SIG)-Human Factors and Human-Computer Interaction in MICCAI (HCI)</a>
+  
 ## *Conference Organizer* 
   * The 2nd <a href="https://haic-miccai.github.io/#/" target="_blank">Human-AI Collaboration (HAIC)</a> workshop @ MICCAI 2026
   * <a href="https://cv4clinical.github.io/cv4clinical_2026/" target="_blank">Bridging AI and Medical Reality: Computer Vision for Real-world Clinical Translation (CV4Clinical@CVPR 2026)</a> workshop @ CVPR 2026
@@ -17,33 +21,10 @@ author_profile: true
   * <a href="https://clinicalmllms.github.io/" target="_blank">Multimodal Large Language Models (MLLMs) in Clinical Practice</a> workshop @ MICCAI 2025
   * Deep Generative Models workshop @ MICCAI 2021, 2022
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
-
-## *Board Member*
-  * Secretary: <a href="https://miccai.org/index.php/special-interest-groups/sig-hci/" target="_blank">MICCAI Special Interest Group (SIG)-Human Factors and Human-Computer Interaction in MICCAI (HCI)</a>
-    
+  
 ## *Area Chair*
   * ICLR 2026
   * MICCAI 2025
-    
-## *Journal Reviewer*
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-  * IEEE Transactions on Medical Imaging (IEEE TMI)
-  * Medical Image Analysis (MedIA)
-  * International Journal of Computer Vision (IJCV)
-  * IEEE Transactions on Image Processing (IEEE TIP)
-  * IEEE Journal of Biomedical and Health Informatics (JBHI)
-  * IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
-  * Pattern Recognition
-  * Scientific Reports
-  * Medical Physics
-
-## *Conference Reviewer*
-  * ICCV 2025, Neurips 2025, ICLR 2025
-  * CVPR 2024, MICCAI 2024, ICML 2024, NeurIPS 2024
-  * CVPR 2023 (Outstanding Reviewer Award), MICCAI 2023, ICCV 2023, ICML 2023, NeurIPS 2023
-  * CVPR 2022, MICCAI 2022, ECCV 2022
-  * ISBI 2021, MICCAI 2021
-  * MICCAI 2019 
 
 ## *Invited Talk*
 *"The Intelligent Co-Sonographer: Guiding, Interpreting, and Empowering Ultrasound Practice"*
@@ -62,15 +43,41 @@ author_profile: true
  * [Jun 2024], Hong Kong Baptist University (HKBU), Hong Kong <a href="https://www.comp.hkbu.edu.hk/v1/file/news/seminar_20240612.pdf" target="_blank">[Poster]</a>
  * [Apr 2024], The University of Hong Kong (HKU), Hong Kong <a href="https://www.eee.hku.hk/events/20240423-2/" target="_blank">[Poster]</a>
 
+## *Teaching*
+  * COMP7055 Computer Vision, Instructor
+  * COMP3066 Health and Assistive Technology: Practicum, Instructor
+  * COMP2036 AI and Data Analytics for Health and Social Innovation II
+  * EE4211 Computer Vision, TA	
+  * EE4146 Data Engineering and Learning System, TA	
+  * EE3919 Medical Imaging and Signal Processing,	TA	
+
+<!--   
 ## *Conference Presentation*
+  * MICCAI 2025, Morocco
   * MICCAI 2022, Singapore <a href="MICCAI2022ppt.pdf" target="_blank">[PPT]</a> <a href="MICCAI2022Poster.pdf" target="_blank">[Poster]</a>
   * CVPR 2022, New Orleans, Louisiana, USA <a href="CVPR2022ppt.pdf" target="_blank">[PPT]</a> <a href="https://zhuanlan.zhihu.com/p/475830652" target="_blank">[知乎]</a>
   * CVPR 2021, Virtual <a href="CVPR2021ppt.pdf" target="_blank">[PPT]</a> <a href="https://mp.weixin.qq.com/s/nF9ZLncWlYbcko_gs06ukw" target="_blank">[MICS中文推送]</a>
   * MICCAI 2019, Shenzhen, China <a href="MICCAI2019Poster.pdf" target="_blank">[Poster]</a>
   * ISBI 2019, Venice, Italy
+-->
 
-## *Teaching*
-  * COMP3066 Health and Assistive Technology: Practicum, Instructor
-  * EE4211 Computer Vision, TA	
-  * EE4146 Data Engineering and Learning System, TA	
-  * EE3919 Medical Imaging and Signal Processing,	TA	
+## *Journal Reviewer*
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+  * IEEE Transactions on Medical Imaging (IEEE TMI)
+  * Medical Image Analysis (MedIA)
+  * International Journal of Computer Vision (IJCV)
+  * IEEE Transactions on Image Processing (IEEE TIP)
+  * IEEE Journal of Biomedical and Health Informatics (JBHI)
+  * IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
+  * Pattern Recognition
+  * Scientific Reports
+  * Medical Physics
+
+## *Conference Reviewer*
+  * CVPR 2026, ECCV 2026
+  * ICCV 2025, Neurips 2025, ICLR 2025
+  * CVPR 2024, MICCAI 2024, ICML 2024, NeurIPS 2024
+  * CVPR 2023 (Outstanding Reviewer Award), MICCAI 2023, ICCV 2023, ICML 2023, NeurIPS 2023
+  * CVPR 2022, MICCAI 2022, ECCV 2022
+  * ISBI 2021, MICCAI 2021
+  * MICCAI 2019 
