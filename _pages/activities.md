@@ -9,10 +9,10 @@ author_profile: true
   * Guest Editor, Sensors, Special Issue on <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a>
 
 ## *Organizer of Conference* 
-  * <a href="https://haic-miccai.github.io/#/" target="_blank">The 2nd Human-AI Collaboration (HAIC)</a> workshop @ MICCAI 2026
+  * The 2nd <a href="https://haic-miccai.github.io/#/" target="_blank">Human-AI Collaboration (HAIC)</a> workshop @ MICCAI 2026
   * <a href="https://cv4clinical.github.io/cv4clinical_2026/" target="_blank">Bridging AI and Medical Reality: Computer Vision for Real-world Clinical Translation (CV4Clinical@CVPR 2026)</a> workshop @ CVPR 2026
   * <a href="https://projects.croucher.org.hk/advanced-study-institutes/generative-ai-and-large-scale-foundation-models-for-biomedicine?locale=en" target="_blank">AI for biomedicine</a>: Learn about theories and methodologies of generative AI and large-scale foundation models for biomedicine @ HKBU 2025
-  * <a href="https://haic-miccai.github.io/#/" target="_blank">Human-AI Collaboration (HAIC)</a> workshop @ MICCAI 2025
+  * <a href="https://haic-miccai.github.io/#/previous-events/haic-2025" target="_blank">Human-AI Collaboration (HAIC)</a> workshop @ MICCAI 2025
   * <a href="https://clinicalmllms.github.io/" target="_blank">Multimodal Large Language Models (MLLMs) in Clinical Practice</a> workshop @ MICCAI 2025
   * Deep Generative Models workshop @ MICCAI 2021, 2022
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
