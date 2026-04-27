@@ -5,8 +5,9 @@ permalink: /activities/
 author_profile: true
 ---
 
-## *Journal Editor*
+<!--   ## *Journal Editor*
   * Guest Editor, Sensors, Special Issue on <a href="https://www.mdpi.com/journal/sensors/special_issues/KAJ7UPYI91" target="_blank">"Computer Vision Powered Human-Machine Interaction in Healthcare"</a>
+-->
 
 ## *Organizer of Conference* 
   * The 2nd <a href="https://haic-miccai.github.io/#/" target="_blank">Human-AI Collaboration (HAIC)</a> workshop @ MICCAI 2026
