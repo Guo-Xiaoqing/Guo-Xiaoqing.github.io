@@ -23,6 +23,7 @@ author_profile: true
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
   
 ## *Area Chair*
+  * AAAI 2027
   * ICLR 2026
   * MICCAI 2025
 
@@ -68,16 +69,8 @@ author_profile: true
   * International Journal of Computer Vision (IJCV)
   * IEEE Transactions on Image Processing (IEEE TIP)
   * IEEE Journal of Biomedical and Health Informatics (JBHI)
-  * IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
-  * Pattern Recognition
-  * Scientific Reports
-  * Medical Physics
 
 ## *Conference Reviewer*
-  * CVPR 2026, ECCV 2026
-  * ICCV 2025, Neurips 2025, ICLR 2025
-  * CVPR 2024, MICCAI 2024, ICML 2024, NeurIPS 2024
-  * CVPR 2023 (Outstanding Reviewer Award), MICCAI 2023, ICCV 2023, ICML 2023, NeurIPS 2023
-  * CVPR 2022, MICCAI 2022, ECCV 2022
-  * ISBI 2021, MICCAI 2021
-  * MICCAI 2019 
+  * MICCAI
+  * CVPR (Outstanding Reviewer Award 2023), ICCV, ECCV
+  * Neurips, ICLR, ICML, AAAI
