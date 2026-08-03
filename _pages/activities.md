@@ -73,4 +73,4 @@ author_profile: true
 ## *Conference Reviewer*
   * MICCAI
   * CVPR (Outstanding Reviewer Award 2023), ICCV, ECCV
-  * Neurips, ICLR, ICML, AAAI
+  * Neurips, ICLR, ICML
