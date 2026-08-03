@@ -47,7 +47,7 @@ author_profile: true
 ## *Teaching*
   * COMP7055 Computer Vision, Instructor
   * COMP3066 Health and Assistive Technology: Practicum, Instructor
-  * COMP2036 AI and Data Analytics for Health and Social Innovation II
+  * COMP2036 AI and Data Analytics for Health and Social Innovation II, Instructor
   * EE4211 Computer Vision, TA	
   * EE4146 Data Engineering and Learning System, TA	
   * EE3919 Medical Imaging and Signal Processing,	TA	
