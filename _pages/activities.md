@@ -23,10 +23,13 @@ author_profile: true
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
   
 ## *Area Chair*
-  * AAAI 2027
+  * ICLR 2027
   * ICLR 2026
   * MICCAI 2025
 
+## *Senior Program Committee*
+  * AAAI 2027
+    
 ## *Invited Talk*
 *"The Intelligent Co-Sonographer: Guiding, Interpreting, and Empowering Ultrasound Practice"*
  * [Apr 2026], Summer School on AI, Robotics & XR in Medicine, Shenzhen, China
