@@ -23,6 +23,7 @@ author_profile: true
 <!--   * <a href="https://dgm4miccai.github.io/" target="_blank">Deep Generative Models workshop @ MICCAI 2022</a> -->
   
 ## *Area Chair*
+  * CVPR 2027
   * ICLR 2027
   * ICLR 2026
   * MICCAI 2025
